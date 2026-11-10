@@ -1,0 +1,66 @@
+﻿skill,skill_family,n_offers
+SQL,Langages,62
+Anglais,Méthodes & métier,50
+Agile / Scrum,Méthodes & métier,49
+Gestion de projet,Méthodes & métier,40
+IA / LLM,Data science / IA,40
+Power BI,BI & visualisation,36
+Python,Langages,35
+Excel,BI & visualisation,32
+Data Governance,Gouvernance & qualité,32
+Data Quality,Gouvernance & qualité,25
+Spécifications fonctionnelles,Méthodes & métier,24
+Modélisation de données,Data engineering,23
+Recette / Tests,Méthodes & métier,23
+ETL,Data engineering,19
+Statistiques,Data science / IA,18
+Jira,Méthodes & métier,17
+Recueil de besoins,Méthodes & métier,15
+Oracle,Bases de données,13
+PostgreSQL,Bases de données,13
+SQL Server,Bases de données,13
+SAP,Méthodes & métier,12
+Tableau,BI & visualisation,11
+Confluence,Méthodes & métier,11
+Spark,Data engineering,10
+RGPD,Gouvernance & qualité,10
+ERP,Méthodes & métier,9
+Qlik,BI & visualisation,9
+Azure,Cloud,9
+Git,Méthodes & métier,8
+Data Warehouse,Data engineering,8
+GCP,Cloud,8
+Contrôle de gestion,Méthodes & métier,8
+CRM,Méthodes & métier,8
+Airflow,Data engineering,7
+dbt,Data engineering,7
+Talend,Data engineering,6
+MongoDB / NoSQL,Bases de données,6
+Machine Learning,Data science / IA,6
+AWS,Cloud,6
+MySQL,Bases de données,6
+Fabric,Cloud,5
+MDM,Gouvernance & qualité,5
+VBA,BI & visualisation,4
+Shell / Bash,Langages,4
+Snowflake,Bases de données,4
+Salesforce,Méthodes & métier,4
+SAS,Langages,4
+Power Query,BI & visualisation,4
+R,Langages,4
+.NET / C#,Langages,3
+DAX,BI & visualisation,3
+Data Lake,Data engineering,3
+BigQuery,Bases de données,3
+Data Factory,Data engineering,3
+Kafka,Data engineering,3
+Dataiku,Data engineering,3
+Java,Langages,3
+Informatica,Data engineering,3
+Semarchy,Data engineering,2
+Hadoop,Data engineering,2
+Alteryx,Data engineering,2
+Scala,Langages,2
+Databricks,Bases de données,1
+JavaScript,Langages,1
+Teradata,Bases de données,1

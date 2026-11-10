@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.streamlit/secrets.toml
+# Exports bruts Supabase : contiennent les textes complets des annonces et des identifiants utilisateur
+data/raw/
+*.pbix.bak

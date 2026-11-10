@@ -1,0 +1,87 @@
+// =====================================================================
+// Mesures DAX — Marché de l'emploi Data en France
+// Modèle : fact_offers (1) --< bridge_offer_skill >-- (1) dim_skill
+//          dim_date (1) --< fact_offers[collected_date]
+//          dim_date (1) --< fact_recommendations[received_date]
+//          fact_applications, fact_status_history (1 app --< n lignes)
+// =====================================================================
+
+// ---------- Volumes ---------------------------------------------------
+Nb offres = COUNTROWS ( fact_offers )
+
+Nb offres reçues = COUNTROWS ( fact_recommendations )
+
+Nb candidatures = COUNTROWS ( fact_applications )
+
+Nb candidatures envoyées =
+CALCULATE ( [Nb candidatures], fact_applications[is_applied] = TRUE () )
+
+Nb entretiens =
+CALCULATE ( [Nb candidatures], fact_applications[status] IN { "entretien", "accepte", "offre" } )
+
+// ---------- Compétences -----------------------------------------------
+Nb offres citant la compétence = DISTINCTCOUNT ( bridge_offer_skill[offer_id] )
+
+% offres citant la compétence =
+DIVIDE ( [Nb offres citant la compétence], CALCULATE ( [Nb offres], REMOVEFILTERS ( dim_skill ) ) )
+
+% indispensable =
+VAR _must = CALCULATE ( DISTINCTCOUNT ( bridge_offer_skill[offer_id] ), bridge_offer_skill[requirement] = "Indispensable" )
+RETURN DIVIDE ( _must, [Nb offres citant la compétence] )
+
+Rang compétence =
+RANKX ( ALL ( dim_skill[skill] ), [Nb offres citant la compétence], , DESC, DENSE )
+
+// ---------- Salaires --------------------------------------------------
+Nb offres avec salaire = CALCULATE ( [Nb offres], NOT ISBLANK ( fact_offers[salary_mid] ) )
+
+% transparence salariale = DIVIDE ( [Nb offres avec salaire], [Nb offres] )
+
+Salaire médian = MEDIAN ( fact_offers[salary_mid] )
+
+Salaire min moyen = AVERAGE ( fact_offers[salary_min] )
+
+Salaire max moyen = AVERAGE ( fact_offers[salary_max] )
+
+Salaire médian (k€) = FORMAT ( DIVIDE ( [Salaire médian], 1000 ), "0" ) & " k€"
+
+// ---------- Séniorité / géographie / télétravail ------------------------
+% juniors =
+DIVIDE ( CALCULATE ( [Nb offres], fact_offers[seniority] = "Junior (0-2 ans)" ), [Nb offres] )
+
+% Île-de-France =
+DIVIDE ( CALCULATE ( [Nb offres], fact_offers[region] = "Île-de-France" ), [Nb offres] )
+
+% hybride ou full remote =
+DIVIDE ( CALCULATE ( [Nb offres], fact_offers[remote_policy] IN { "Hybride", "Télétravail complet" } ), [Nb offres] )
+
+Expérience min moyenne (ans) = AVERAGE ( fact_offers[min_years_experience] )
+
+// ---------- Entonnoir & sources -----------------------------------------
+Taux de rétention source =
+DIVIDE (
+    CALCULATE ( [Nb offres reçues], fact_recommendations[status] = "accepted" ),
+    [Nb offres reçues]
+)
+
+% trop senior (flux reçu) =
+DIVIDE (
+    CALCULATE ( [Nb offres reçues], fact_recommendations[flag_senior] = TRUE () || fact_recommendations[reject_reason] = "Trop senior" ),
+    [Nb offres reçues]
+)
+
+Taux de candidature =
+DIVIDE ( [Nb candidatures envoyées], CALCULATE ( [Nb offres], fact_offers[decision] = "accepted" ) )
+
+Taux d'entretien = DIVIDE ( [Nb entretiens], [Nb candidatures envoyées] )
+
+Délai moyen dans le statut (j) = AVERAGE ( fact_status_history[days_in_previous_status] )
+
+// ---------- Time intelligence (dim_date marquée comme table de dates) ----
+Offres semaine précédente =
+CALCULATE ( [Nb offres], DATEADD ( dim_date[date], -7, DAY ) )
+
+Variation offres vs S-1 = DIVIDE ( [Nb offres] - [Offres semaine précédente], [Offres semaine précédente] )
+
+Offres cumulées =
+CALCULATE ( [Nb offres], FILTER ( ALL ( dim_date[date] ), dim_date[date] <= MAX ( dim_date[date] ) ) )

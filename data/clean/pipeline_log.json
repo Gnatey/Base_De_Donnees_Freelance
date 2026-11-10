@@ -1,0 +1,24 @@
+{
+  "rows": {
+    "offers_raw": 172,
+    "applications_raw": 203,
+    "status_history_raw": 381,
+    "recommendations_raw": 745,
+    "fact_offers": 172,
+    "bridge_offer_skill": 820,
+    "dim_skill": 65,
+    "fact_applications": 203,
+    "fact_status_history": 381,
+    "fact_recommendations": 745,
+    "dim_date": 15
+  },
+  "data_quality": {
+    "offres_avec_salaire": 30,
+    "offres_avec_seniorite": 120,
+    "offres_avec_region": 159,
+    "offres_hors_data": 21,
+    "lieux_non_resolus": [
+      "Non précisé"
+    ]
+  }
+}
