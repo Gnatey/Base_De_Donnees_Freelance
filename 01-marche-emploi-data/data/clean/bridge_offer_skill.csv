@@ -1,821 +1,821 @@
 ﻿offer_id,skill,skill_family,requirement
-02690364-b599-49e4-8f24-99a1b9d31980,Agile / Scrum,Méthodes & métier,Indispensable
-02690364-b599-49e4-8f24-99a1b9d31980,Gestion de projet,Méthodes & métier,Indispensable
 02690364-b599-49e4-8f24-99a1b9d31980,Anglais,Méthodes & métier,Souhaité
 02690364-b599-49e4-8f24-99a1b9d31980,Recette / Tests,Méthodes & métier,Indispensable
-048dba0f-92c5-4c89-8a91-14ca88314fd4,Recueil de besoins,Méthodes & métier,Indispensable
-048dba0f-92c5-4c89-8a91-14ca88314fd4,Spécifications fonctionnelles,Méthodes & métier,Indispensable
-048dba0f-92c5-4c89-8a91-14ca88314fd4,SQL,Langages,Indispensable
+02690364-b599-49e4-8f24-99a1b9d31980,Agile / Scrum,Méthodes & métier,Indispensable
+02690364-b599-49e4-8f24-99a1b9d31980,Gestion de projet,Méthodes & métier,Indispensable
 048dba0f-92c5-4c89-8a91-14ca88314fd4,GCP,Cloud,Indispensable
+048dba0f-92c5-4c89-8a91-14ca88314fd4,SQL,Langages,Indispensable
+048dba0f-92c5-4c89-8a91-14ca88314fd4,Spécifications fonctionnelles,Méthodes & métier,Indispensable
 048dba0f-92c5-4c89-8a91-14ca88314fd4,Recette / Tests,Méthodes & métier,Indispensable
+048dba0f-92c5-4c89-8a91-14ca88314fd4,Recueil de besoins,Méthodes & métier,Indispensable
+1303faf3-de0a-4ca9-8c90-cfebd79a373f,Jira,Méthodes & métier,Indispensable
 1303faf3-de0a-4ca9-8c90-cfebd79a373f,Agile / Scrum,Méthodes & métier,Indispensable
 1303faf3-de0a-4ca9-8c90-cfebd79a373f,Gestion de projet,Méthodes & métier,Indispensable
-1303faf3-de0a-4ca9-8c90-cfebd79a373f,Jira,Méthodes & métier,Indispensable
-15235ed1-e67e-4b51-a688-b4415a9cbe99,Python,Langages,Indispensable
-15235ed1-e67e-4b51-a688-b4415a9cbe99,Shell / Bash,Langages,Indispensable
-15235ed1-e67e-4b51-a688-b4415a9cbe99,ETL,Data engineering,Indispensable
 15235ed1-e67e-4b51-a688-b4415a9cbe99,Fabric,Cloud,Indispensable
-15235ed1-e67e-4b51-a688-b4415a9cbe99,Modélisation de données,Data engineering,Indispensable
-15235ed1-e67e-4b51-a688-b4415a9cbe99,Salesforce,Méthodes & métier,Indispensable
-15235ed1-e67e-4b51-a688-b4415a9cbe99,Data Quality,Gouvernance & qualité,Indispensable
-15235ed1-e67e-4b51-a688-b4415a9cbe99,dbt,Data engineering,Souhaité
-15235ed1-e67e-4b51-a688-b4415a9cbe99,SQL Server,Bases de données,Indispensable
-15235ed1-e67e-4b51-a688-b4415a9cbe99,Azure,Cloud,Indispensable
-15235ed1-e67e-4b51-a688-b4415a9cbe99,Data Factory,Data engineering,Souhaité
-15235ed1-e67e-4b51-a688-b4415a9cbe99,Power BI,BI & visualisation,Indispensable
-15235ed1-e67e-4b51-a688-b4415a9cbe99,SQL,Langages,Indispensable
-15235ed1-e67e-4b51-a688-b4415a9cbe99,Anglais,Méthodes & métier,Indispensable
 15235ed1-e67e-4b51-a688-b4415a9cbe99,Git,Méthodes & métier,Indispensable
+15235ed1-e67e-4b51-a688-b4415a9cbe99,dbt,Data engineering,Souhaité
 15235ed1-e67e-4b51-a688-b4415a9cbe99,Data Governance,Gouvernance & qualité,Indispensable
-1731157d-6ca9-46f6-8ce1-c23f3de95dfb,Gestion de projet,Méthodes & métier,Indispensable
+15235ed1-e67e-4b51-a688-b4415a9cbe99,SQL,Langages,Indispensable
+15235ed1-e67e-4b51-a688-b4415a9cbe99,Shell / Bash,Langages,Indispensable
+15235ed1-e67e-4b51-a688-b4415a9cbe99,Data Factory,Data engineering,Souhaité
+15235ed1-e67e-4b51-a688-b4415a9cbe99,Python,Langages,Indispensable
+15235ed1-e67e-4b51-a688-b4415a9cbe99,Modélisation de données,Data engineering,Indispensable
+15235ed1-e67e-4b51-a688-b4415a9cbe99,SQL Server,Bases de données,Indispensable
+15235ed1-e67e-4b51-a688-b4415a9cbe99,Salesforce,Méthodes & métier,Indispensable
+15235ed1-e67e-4b51-a688-b4415a9cbe99,Power BI,BI & visualisation,Indispensable
+15235ed1-e67e-4b51-a688-b4415a9cbe99,Azure,Cloud,Indispensable
+15235ed1-e67e-4b51-a688-b4415a9cbe99,ETL,Data engineering,Indispensable
+15235ed1-e67e-4b51-a688-b4415a9cbe99,Anglais,Méthodes & métier,Indispensable
+15235ed1-e67e-4b51-a688-b4415a9cbe99,Data Quality,Gouvernance & qualité,Indispensable
 1731157d-6ca9-46f6-8ce1-c23f3de95dfb,Anglais,Méthodes & métier,Indispensable
 1731157d-6ca9-46f6-8ce1-c23f3de95dfb,Data Governance,Gouvernance & qualité,Indispensable
+1731157d-6ca9-46f6-8ce1-c23f3de95dfb,Gestion de projet,Méthodes & métier,Indispensable
 1845bceb-475f-4e20-aaa2-a628aa9924ae,PostgreSQL,Bases de données,Indispensable
-1845bceb-475f-4e20-aaa2-a628aa9924ae,SQL,Langages,Indispensable
 1845bceb-475f-4e20-aaa2-a628aa9924ae,SQL Server,Bases de données,Indispensable
-1845bceb-475f-4e20-aaa2-a628aa9924ae,Oracle,Bases de données,Indispensable
 1845bceb-475f-4e20-aaa2-a628aa9924ae,MySQL,Bases de données,Indispensable
+1845bceb-475f-4e20-aaa2-a628aa9924ae,SQL,Langages,Indispensable
+1845bceb-475f-4e20-aaa2-a628aa9924ae,Oracle,Bases de données,Indispensable
 18ad52d8-c0f6-4c13-aae6-e24fdb08e111,Contrôle de gestion,Méthodes & métier,Indispensable
 18ad52d8-c0f6-4c13-aae6-e24fdb08e111,Power BI,BI & visualisation,Indispensable
+1bb61f76-1c14-43c2-848a-2d211089027b,GCP,Cloud,Indispensable
 1bb61f76-1c14-43c2-848a-2d211089027b,BigQuery,Bases de données,Indispensable
+1bb61f76-1c14-43c2-848a-2d211089027b,dbt,Data engineering,Indispensable
+1bb61f76-1c14-43c2-848a-2d211089027b,Data Governance,Gouvernance & qualité,Indispensable
+1bb61f76-1c14-43c2-848a-2d211089027b,SQL,Langages,Indispensable
 1bb61f76-1c14-43c2-848a-2d211089027b,Python,Langages,Indispensable
 1bb61f76-1c14-43c2-848a-2d211089027b,Modélisation de données,Data engineering,Indispensable
-1bb61f76-1c14-43c2-848a-2d211089027b,GCP,Cloud,Indispensable
 1bb61f76-1c14-43c2-848a-2d211089027b,Airflow,Data engineering,Indispensable
-1bb61f76-1c14-43c2-848a-2d211089027b,dbt,Data engineering,Indispensable
-1bb61f76-1c14-43c2-848a-2d211089027b,SQL,Langages,Indispensable
 1bb61f76-1c14-43c2-848a-2d211089027b,Anglais,Méthodes & métier,Indispensable
-1bb61f76-1c14-43c2-848a-2d211089027b,Data Governance,Gouvernance & qualité,Indispensable
 1dc44d05-b6fc-4616-948c-2e2eea33138f,ETL,Data engineering,Indispensable
-220e7183-d30c-4b14-b9cf-fca2b8788081,PostgreSQL,Bases de données,Indispensable
-220e7183-d30c-4b14-b9cf-fca2b8788081,Python,Langages,Indispensable
-220e7183-d30c-4b14-b9cf-fca2b8788081,Shell / Bash,Langages,Indispensable
-220e7183-d30c-4b14-b9cf-fca2b8788081,Agile / Scrum,Méthodes & métier,Indispensable
-220e7183-d30c-4b14-b9cf-fca2b8788081,Modélisation de données,Data engineering,Indispensable
 220e7183-d30c-4b14-b9cf-fca2b8788081,GCP,Cloud,Indispensable
-220e7183-d30c-4b14-b9cf-fca2b8788081,Airflow,Data engineering,Indispensable
+220e7183-d30c-4b14-b9cf-fca2b8788081,Scala,Langages,Indispensable
+220e7183-d30c-4b14-b9cf-fca2b8788081,Git,Méthodes & métier,Indispensable
+220e7183-d30c-4b14-b9cf-fca2b8788081,IA / LLM,Data science / IA,Indispensable
+220e7183-d30c-4b14-b9cf-fca2b8788081,SQL,Langages,Indispensable
+220e7183-d30c-4b14-b9cf-fca2b8788081,Shell / Bash,Langages,Indispensable
+220e7183-d30c-4b14-b9cf-fca2b8788081,Data Governance,Gouvernance & qualité,Indispensable
+220e7183-d30c-4b14-b9cf-fca2b8788081,Python,Langages,Indispensable
+220e7183-d30c-4b14-b9cf-fca2b8788081,Modélisation de données,Data engineering,Indispensable
+220e7183-d30c-4b14-b9cf-fca2b8788081,Agile / Scrum,Méthodes & métier,Indispensable
 220e7183-d30c-4b14-b9cf-fca2b8788081,Recette / Tests,Méthodes & métier,Indispensable
 220e7183-d30c-4b14-b9cf-fca2b8788081,Spark,Data engineering,Indispensable
-220e7183-d30c-4b14-b9cf-fca2b8788081,Scala,Langages,Indispensable
-220e7183-d30c-4b14-b9cf-fca2b8788081,SQL,Langages,Indispensable
+220e7183-d30c-4b14-b9cf-fca2b8788081,PostgreSQL,Bases de données,Indispensable
+220e7183-d30c-4b14-b9cf-fca2b8788081,Airflow,Data engineering,Indispensable
 220e7183-d30c-4b14-b9cf-fca2b8788081,Java,Langages,Indispensable
-220e7183-d30c-4b14-b9cf-fca2b8788081,Git,Méthodes & métier,Indispensable
-220e7183-d30c-4b14-b9cf-fca2b8788081,Data Governance,Gouvernance & qualité,Indispensable
-220e7183-d30c-4b14-b9cf-fca2b8788081,IA / LLM,Data science / IA,Indispensable
 22502b45-a143-437e-bfa9-445c3ab99ef5,Excel,BI & visualisation,Indispensable
 22502b45-a143-437e-bfa9-445c3ab99ef5,Recette / Tests,Méthodes & métier,Indispensable
-2330f8ff-8dc7-483a-a505-fe56542d321c,PostgreSQL,Bases de données,Indispensable
-2330f8ff-8dc7-483a-a505-fe56542d321c,Python,Langages,Indispensable
+2330f8ff-8dc7-483a-a505-fe56542d321c,Git,Méthodes & métier,Indispensable
+2330f8ff-8dc7-483a-a505-fe56542d321c,SQL,Langages,Indispensable
 2330f8ff-8dc7-483a-a505-fe56542d321c,Shell / Bash,Langages,Indispensable
 2330f8ff-8dc7-483a-a505-fe56542d321c,Oracle,Bases de données,Indispensable
-2330f8ff-8dc7-483a-a505-fe56542d321c,AWS,Cloud,Indispensable
-2330f8ff-8dc7-483a-a505-fe56542d321c,SQL Server,Bases de données,Souhaité
+2330f8ff-8dc7-483a-a505-fe56542d321c,Python,Langages,Indispensable
 2330f8ff-8dc7-483a-a505-fe56542d321c,MongoDB / NoSQL,Bases de données,Souhaité
-2330f8ff-8dc7-483a-a505-fe56542d321c,SQL,Langages,Indispensable
-2330f8ff-8dc7-483a-a505-fe56542d321c,Git,Méthodes & métier,Indispensable
-2367b58a-2346-470b-ba12-5a2cec668e19,Agile / Scrum,Méthodes & métier,Indispensable
-2367b58a-2346-470b-ba12-5a2cec668e19,ETL,Data engineering,Indispensable
-2367b58a-2346-470b-ba12-5a2cec668e19,Modélisation de données,Data engineering,Indispensable
-2367b58a-2346-470b-ba12-5a2cec668e19,Data Warehouse,Data engineering,Indispensable
+2330f8ff-8dc7-483a-a505-fe56542d321c,PostgreSQL,Bases de données,Indispensable
+2330f8ff-8dc7-483a-a505-fe56542d321c,SQL Server,Bases de données,Souhaité
+2330f8ff-8dc7-483a-a505-fe56542d321c,AWS,Cloud,Indispensable
 2367b58a-2346-470b-ba12-5a2cec668e19,DAX,BI & visualisation,Indispensable
-2367b58a-2346-470b-ba12-5a2cec668e19,Power Query,BI & visualisation,Indispensable
-2367b58a-2346-470b-ba12-5a2cec668e19,Power BI,BI & visualisation,Indispensable
+2367b58a-2346-470b-ba12-5a2cec668e19,Agile / Scrum,Méthodes & métier,Indispensable
 2367b58a-2346-470b-ba12-5a2cec668e19,SQL,Langages,Indispensable
+2367b58a-2346-470b-ba12-5a2cec668e19,Data Warehouse,Data engineering,Indispensable
 2367b58a-2346-470b-ba12-5a2cec668e19,Data Governance,Gouvernance & qualité,Souhaité
+2367b58a-2346-470b-ba12-5a2cec668e19,Modélisation de données,Data engineering,Indispensable
+2367b58a-2346-470b-ba12-5a2cec668e19,Power BI,BI & visualisation,Indispensable
+2367b58a-2346-470b-ba12-5a2cec668e19,Power Query,BI & visualisation,Indispensable
+2367b58a-2346-470b-ba12-5a2cec668e19,ETL,Data engineering,Indispensable
 2533b777-4dde-4635-9fb1-d931767816f6,Oracle,Bases de données,Indispensable
-2533b777-4dde-4635-9fb1-d931767816f6,MySQL,Bases de données,Indispensable
 2533b777-4dde-4635-9fb1-d931767816f6,Anglais,Méthodes & métier,Indispensable
-27c72203-d96c-4315-b10e-bb87b721e9c7,Agile / Scrum,Méthodes & métier,Indispensable
+2533b777-4dde-4635-9fb1-d931767816f6,MySQL,Bases de données,Indispensable
 27c72203-d96c-4315-b10e-bb87b721e9c7,IA / LLM,Data science / IA,Indispensable
-28b6f728-0583-4549-b825-46e7bd591040,SQL,Langages,Indispensable
+27c72203-d96c-4315-b10e-bb87b721e9c7,Agile / Scrum,Méthodes & métier,Indispensable
 28b6f728-0583-4549-b825-46e7bd591040,Gestion de projet,Méthodes & métier,Indispensable
-28b6f728-0583-4549-b825-46e7bd591040,VBA,BI & visualisation,Indispensable
 28b6f728-0583-4549-b825-46e7bd591040,Modélisation de données,Data engineering,Indispensable
+28b6f728-0583-4549-b825-46e7bd591040,VBA,BI & visualisation,Indispensable
+28b6f728-0583-4549-b825-46e7bd591040,SQL,Langages,Indispensable
+290e90a0-f699-4e99-af5e-3b02c264dbbc,ERP,Méthodes & métier,Indispensable
 290e90a0-f699-4e99-af5e-3b02c264dbbc,Excel,BI & visualisation,Indispensable
 290e90a0-f699-4e99-af5e-3b02c264dbbc,Statistiques,Data science / IA,Indispensable
-290e90a0-f699-4e99-af5e-3b02c264dbbc,ERP,Méthodes & métier,Indispensable
-2ac9f431-329b-4c1f-b363-60c49abf6cab,Agile / Scrum,Méthodes & métier,Indispensable
 2ac9f431-329b-4c1f-b363-60c49abf6cab,Recette / Tests,Méthodes & métier,Indispensable
-2ad0f770-55fc-492f-8372-35914b42001b,Agile / Scrum,Méthodes & métier,Indispensable
+2ac9f431-329b-4c1f-b363-60c49abf6cab,Agile / Scrum,Méthodes & métier,Indispensable
 2ad0f770-55fc-492f-8372-35914b42001b,Anglais,Méthodes & métier,Indispensable
-2b1fd7a4-d0dc-4e23-8f57-acb84156777a,Spécifications fonctionnelles,Méthodes & métier,Indispensable
-2b1fd7a4-d0dc-4e23-8f57-acb84156777a,Confluence,Méthodes & métier,Indispensable
+2ad0f770-55fc-492f-8372-35914b42001b,Agile / Scrum,Méthodes & métier,Indispensable
 2b1fd7a4-d0dc-4e23-8f57-acb84156777a,Jira,Méthodes & métier,Indispensable
-2bed956e-4a29-45e1-98f1-79874e6d2803,PostgreSQL,Bases de données,Indispensable
-2bed956e-4a29-45e1-98f1-79874e6d2803,Agile / Scrum,Méthodes & métier,Indispensable
-2bed956e-4a29-45e1-98f1-79874e6d2803,ETL,Data engineering,Indispensable
-2bed956e-4a29-45e1-98f1-79874e6d2803,Oracle,Bases de données,Indispensable
-2bed956e-4a29-45e1-98f1-79874e6d2803,Data Warehouse,Data engineering,Indispensable
-2bed956e-4a29-45e1-98f1-79874e6d2803,Hadoop,Data engineering,Indispensable
-2bed956e-4a29-45e1-98f1-79874e6d2803,Semarchy,Data engineering,Indispensable
-2bed956e-4a29-45e1-98f1-79874e6d2803,Spark,Data engineering,Indispensable
+2b1fd7a4-d0dc-4e23-8f57-acb84156777a,Confluence,Méthodes & métier,Indispensable
+2b1fd7a4-d0dc-4e23-8f57-acb84156777a,Spécifications fonctionnelles,Méthodes & métier,Indispensable
 2bed956e-4a29-45e1-98f1-79874e6d2803,Kafka,Data engineering,Indispensable
-2bed956e-4a29-45e1-98f1-79874e6d2803,SQL Server,Bases de données,Indispensable
-2bed956e-4a29-45e1-98f1-79874e6d2803,MongoDB / NoSQL,Bases de données,Indispensable
 2bed956e-4a29-45e1-98f1-79874e6d2803,Scala,Langages,Indispensable
-2bed956e-4a29-45e1-98f1-79874e6d2803,Data Lake,Data engineering,Indispensable
+2bed956e-4a29-45e1-98f1-79874e6d2803,Agile / Scrum,Méthodes & métier,Indispensable
 2bed956e-4a29-45e1-98f1-79874e6d2803,SQL,Langages,Indispensable
+2bed956e-4a29-45e1-98f1-79874e6d2803,Oracle,Bases de données,Indispensable
 2bed956e-4a29-45e1-98f1-79874e6d2803,Teradata,Bases de données,Indispensable
-2c94fe61-e7bc-46ee-bee3-9a3824652470,Excel,BI & visualisation,Indispensable
-2c94fe61-e7bc-46ee-bee3-9a3824652470,IA / LLM,Data science / IA,Indispensable
+2bed956e-4a29-45e1-98f1-79874e6d2803,Data Warehouse,Data engineering,Indispensable
+2bed956e-4a29-45e1-98f1-79874e6d2803,Semarchy,Data engineering,Indispensable
+2bed956e-4a29-45e1-98f1-79874e6d2803,MongoDB / NoSQL,Bases de données,Indispensable
+2bed956e-4a29-45e1-98f1-79874e6d2803,Spark,Data engineering,Indispensable
+2bed956e-4a29-45e1-98f1-79874e6d2803,PostgreSQL,Bases de données,Indispensable
+2bed956e-4a29-45e1-98f1-79874e6d2803,SQL Server,Bases de données,Indispensable
+2bed956e-4a29-45e1-98f1-79874e6d2803,ETL,Data engineering,Indispensable
+2bed956e-4a29-45e1-98f1-79874e6d2803,Data Lake,Data engineering,Indispensable
+2bed956e-4a29-45e1-98f1-79874e6d2803,Hadoop,Data engineering,Indispensable
 2c94fe61-e7bc-46ee-bee3-9a3824652470,Modélisation de données,Data engineering,Indispensable
+2c94fe61-e7bc-46ee-bee3-9a3824652470,Excel,BI & visualisation,Indispensable
 2c94fe61-e7bc-46ee-bee3-9a3824652470,Power BI,BI & visualisation,Indispensable
-349ebc38-196a-4a3f-a59c-8303e4d59d63,Statistiques,Data science / IA,Indispensable
+2c94fe61-e7bc-46ee-bee3-9a3824652470,IA / LLM,Data science / IA,Indispensable
 349ebc38-196a-4a3f-a59c-8303e4d59d63,Fabric,Cloud,Indispensable
-349ebc38-196a-4a3f-a59c-8303e4d59d63,Power BI,BI & visualisation,Indispensable
-349ebc38-196a-4a3f-a59c-8303e4d59d63,SQL,Langages,Indispensable
 349ebc38-196a-4a3f-a59c-8303e4d59d63,CRM,Méthodes & métier,Indispensable
 349ebc38-196a-4a3f-a59c-8303e4d59d63,Contrôle de gestion,Méthodes & métier,Indispensable
-359d1f7f-e1eb-4f58-86f6-5e02a5a06314,Gestion de projet,Méthodes & métier,Indispensable
+349ebc38-196a-4a3f-a59c-8303e4d59d63,Statistiques,Data science / IA,Indispensable
+349ebc38-196a-4a3f-a59c-8303e4d59d63,Power BI,BI & visualisation,Indispensable
+349ebc38-196a-4a3f-a59c-8303e4d59d63,SQL,Langages,Indispensable
 359d1f7f-e1eb-4f58-86f6-5e02a5a06314,Data Quality,Gouvernance & qualité,Indispensable
+359d1f7f-e1eb-4f58-86f6-5e02a5a06314,Gestion de projet,Méthodes & métier,Indispensable
 3610b608-4a25-4a55-88cd-91e323bf03b0,Recette / Tests,Méthodes & métier,Indispensable
-39b82e49-38a4-44f6-bdfd-2158957e24a6,Excel,BI & visualisation,Indispensable
 39b82e49-38a4-44f6-bdfd-2158957e24a6,Statistiques,Data science / IA,Indispensable
-39b82e49-38a4-44f6-bdfd-2158957e24a6,Python,Langages,Indispensable
-39b82e49-38a4-44f6-bdfd-2158957e24a6,Spécifications fonctionnelles,Méthodes & métier,Indispensable
-39b82e49-38a4-44f6-bdfd-2158957e24a6,Data Quality,Gouvernance & qualité,Indispensable
-39b82e49-38a4-44f6-bdfd-2158957e24a6,SQL,Langages,Indispensable
-39b82e49-38a4-44f6-bdfd-2158957e24a6,RGPD,Gouvernance & qualité,Indispensable
-39b82e49-38a4-44f6-bdfd-2158957e24a6,Power BI,BI & visualisation,Indispensable
-39b82e49-38a4-44f6-bdfd-2158957e24a6,Tableau,BI & visualisation,Indispensable
 39b82e49-38a4-44f6-bdfd-2158957e24a6,Data Governance,Gouvernance & qualité,Indispensable
-3ea44ee2-6b44-42f1-8c53-a5250bd67310,Excel,BI & visualisation,Indispensable
-3ea44ee2-6b44-42f1-8c53-a5250bd67310,IA / LLM,Data science / IA,Indispensable
+39b82e49-38a4-44f6-bdfd-2158957e24a6,SQL,Langages,Indispensable
+39b82e49-38a4-44f6-bdfd-2158957e24a6,Tableau,BI & visualisation,Indispensable
+39b82e49-38a4-44f6-bdfd-2158957e24a6,Python,Langages,Indispensable
+39b82e49-38a4-44f6-bdfd-2158957e24a6,Power BI,BI & visualisation,Indispensable
+39b82e49-38a4-44f6-bdfd-2158957e24a6,RGPD,Gouvernance & qualité,Indispensable
+39b82e49-38a4-44f6-bdfd-2158957e24a6,Spécifications fonctionnelles,Méthodes & métier,Indispensable
+39b82e49-38a4-44f6-bdfd-2158957e24a6,Excel,BI & visualisation,Indispensable
+39b82e49-38a4-44f6-bdfd-2158957e24a6,Data Quality,Gouvernance & qualité,Indispensable
 3ea44ee2-6b44-42f1-8c53-a5250bd67310,Modélisation de données,Data engineering,Indispensable
+3ea44ee2-6b44-42f1-8c53-a5250bd67310,Excel,BI & visualisation,Indispensable
 3ea44ee2-6b44-42f1-8c53-a5250bd67310,Power BI,BI & visualisation,Indispensable
+3ea44ee2-6b44-42f1-8c53-a5250bd67310,IA / LLM,Data science / IA,Indispensable
 40ef1607-677a-4ce3-9b4e-4fcb1d5746a2,Excel,BI & visualisation,Indispensable
-40ef1607-677a-4ce3-9b4e-4fcb1d5746a2,SAS,Langages,Indispensable
 40ef1607-677a-4ce3-9b4e-4fcb1d5746a2,VBA,BI & visualisation,Indispensable
+40ef1607-677a-4ce3-9b4e-4fcb1d5746a2,SAS,Langages,Indispensable
 40ef1607-677a-4ce3-9b4e-4fcb1d5746a2,Qlik,BI & visualisation,Indispensable
-415ad803-d3fa-44a2-9265-a6d6d3f3cfa8,Excel,BI & visualisation,Indispensable
-415ad803-d3fa-44a2-9265-a6d6d3f3cfa8,Anglais,Méthodes & métier,Indispensable
-415ad803-d3fa-44a2-9265-a6d6d3f3cfa8,ERP,Méthodes & métier,Indispensable
-415ad803-d3fa-44a2-9265-a6d6d3f3cfa8,Data Quality,Gouvernance & qualité,Indispensable
 415ad803-d3fa-44a2-9265-a6d6d3f3cfa8,SAP,Méthodes & métier,Indispensable
-415ad803-d3fa-44a2-9265-a6d6d3f3cfa8,Tableau,BI & visualisation,Indispensable
-415ad803-d3fa-44a2-9265-a6d6d3f3cfa8,MDM,Gouvernance & qualité,Indispensable
 415ad803-d3fa-44a2-9265-a6d6d3f3cfa8,Data Governance,Gouvernance & qualité,Indispensable
 415ad803-d3fa-44a2-9265-a6d6d3f3cfa8,IA / LLM,Data science / IA,Indispensable
-418afdb3-7814-401d-bde9-5c6526c41ea3,Agile / Scrum,Méthodes & métier,Souhaité
+415ad803-d3fa-44a2-9265-a6d6d3f3cfa8,MDM,Gouvernance & qualité,Indispensable
+415ad803-d3fa-44a2-9265-a6d6d3f3cfa8,Tableau,BI & visualisation,Indispensable
+415ad803-d3fa-44a2-9265-a6d6d3f3cfa8,ERP,Méthodes & métier,Indispensable
+415ad803-d3fa-44a2-9265-a6d6d3f3cfa8,Anglais,Méthodes & métier,Indispensable
+415ad803-d3fa-44a2-9265-a6d6d3f3cfa8,Excel,BI & visualisation,Indispensable
+415ad803-d3fa-44a2-9265-a6d6d3f3cfa8,Data Quality,Gouvernance & qualité,Indispensable
+418afdb3-7814-401d-bde9-5c6526c41ea3,Jira,Méthodes & métier,Indispensable
 418afdb3-7814-401d-bde9-5c6526c41ea3,SAP,Méthodes & métier,Indispensable
 418afdb3-7814-401d-bde9-5c6526c41ea3,Data Governance,Gouvernance & qualité,Indispensable
-418afdb3-7814-401d-bde9-5c6526c41ea3,Jira,Méthodes & métier,Indispensable
-418afdb3-7814-401d-bde9-5c6526c41ea3,Qlik,BI & visualisation,Indispensable
+418afdb3-7814-401d-bde9-5c6526c41ea3,Agile / Scrum,Méthodes & métier,Souhaité
 418afdb3-7814-401d-bde9-5c6526c41ea3,Data Quality,Gouvernance & qualité,Indispensable
-436b1080-f90b-4241-8e68-68dbd037b16b,PostgreSQL,Bases de données,Indispensable
-436b1080-f90b-4241-8e68-68dbd037b16b,Statistiques,Data science / IA,Indispensable
-436b1080-f90b-4241-8e68-68dbd037b16b,Python,Langages,Indispensable
-436b1080-f90b-4241-8e68-68dbd037b16b,MySQL,Bases de données,Indispensable
+418afdb3-7814-401d-bde9-5c6526c41ea3,Qlik,BI & visualisation,Indispensable
 436b1080-f90b-4241-8e68-68dbd037b16b,Machine Learning,Data science / IA,Indispensable
-436b1080-f90b-4241-8e68-68dbd037b16b,SQL Server,Bases de données,Indispensable
-436b1080-f90b-4241-8e68-68dbd037b16b,Azure,Cloud,Indispensable
-436b1080-f90b-4241-8e68-68dbd037b16b,Data Factory,Data engineering,Indispensable
-436b1080-f90b-4241-8e68-68dbd037b16b,Power BI,BI & visualisation,Indispensable
-436b1080-f90b-4241-8e68-68dbd037b16b,RGPD,Gouvernance & qualité,Indispensable
-436b1080-f90b-4241-8e68-68dbd037b16b,SQL,Langages,Indispensable
-436b1080-f90b-4241-8e68-68dbd037b16b,Anglais,Méthodes & métier,Indispensable
-436b1080-f90b-4241-8e68-68dbd037b16b,Modélisation de données,Data engineering,Indispensable
+436b1080-f90b-4241-8e68-68dbd037b16b,MySQL,Bases de données,Indispensable
 436b1080-f90b-4241-8e68-68dbd037b16b,Data Warehouse,Data engineering,Indispensable
-436b1080-f90b-4241-8e68-68dbd037b16b,Data Quality,Gouvernance & qualité,Indispensable
+436b1080-f90b-4241-8e68-68dbd037b16b,PostgreSQL,Bases de données,Indispensable
+436b1080-f90b-4241-8e68-68dbd037b16b,SQL Server,Bases de données,Indispensable
+436b1080-f90b-4241-8e68-68dbd037b16b,Power BI,BI & visualisation,Indispensable
+436b1080-f90b-4241-8e68-68dbd037b16b,Azure,Cloud,Indispensable
+436b1080-f90b-4241-8e68-68dbd037b16b,Statistiques,Data science / IA,Indispensable
 436b1080-f90b-4241-8e68-68dbd037b16b,Data Governance,Gouvernance & qualité,Indispensable
-438ca137-fcd4-4af1-995f-e9a2e766856f,SQL,Langages,Indispensable
+436b1080-f90b-4241-8e68-68dbd037b16b,SQL,Langages,Indispensable
+436b1080-f90b-4241-8e68-68dbd037b16b,Python,Langages,Indispensable
+436b1080-f90b-4241-8e68-68dbd037b16b,Modélisation de données,Data engineering,Indispensable
+436b1080-f90b-4241-8e68-68dbd037b16b,Data Factory,Data engineering,Indispensable
+436b1080-f90b-4241-8e68-68dbd037b16b,RGPD,Gouvernance & qualité,Indispensable
+436b1080-f90b-4241-8e68-68dbd037b16b,Anglais,Méthodes & métier,Indispensable
+436b1080-f90b-4241-8e68-68dbd037b16b,Data Quality,Gouvernance & qualité,Indispensable
 438ca137-fcd4-4af1-995f-e9a2e766856f,Gestion de projet,Méthodes & métier,Indispensable
-438ca137-fcd4-4af1-995f-e9a2e766856f,VBA,BI & visualisation,Indispensable
 438ca137-fcd4-4af1-995f-e9a2e766856f,Modélisation de données,Data engineering,Indispensable
-4778b6b9-7573-4d13-bb54-82d154fb4aec,Excel,BI & visualisation,Indispensable
-4778b6b9-7573-4d13-bb54-82d154fb4aec,Recueil de besoins,Méthodes & métier,Indispensable
-4778b6b9-7573-4d13-bb54-82d154fb4aec,Python,Langages,Indispensable
-4778b6b9-7573-4d13-bb54-82d154fb4aec,Spécifications fonctionnelles,Méthodes & métier,Indispensable
-4778b6b9-7573-4d13-bb54-82d154fb4aec,Dataiku,Data engineering,Indispensable
+438ca137-fcd4-4af1-995f-e9a2e766856f,VBA,BI & visualisation,Indispensable
+438ca137-fcd4-4af1-995f-e9a2e766856f,SQL,Langages,Indispensable
 4778b6b9-7573-4d13-bb54-82d154fb4aec,Contrôle de gestion,Méthodes & métier,Indispensable
-4778b6b9-7573-4d13-bb54-82d154fb4aec,Recette / Tests,Méthodes & métier,Indispensable
-4778b6b9-7573-4d13-bb54-82d154fb4aec,Alteryx,Data engineering,Indispensable
-4778b6b9-7573-4d13-bb54-82d154fb4aec,Power BI,BI & visualisation,Indispensable
 4778b6b9-7573-4d13-bb54-82d154fb4aec,SQL,Langages,Indispensable
+4778b6b9-7573-4d13-bb54-82d154fb4aec,Python,Langages,Indispensable
+4778b6b9-7573-4d13-bb54-82d154fb4aec,Alteryx,Data engineering,Indispensable
+4778b6b9-7573-4d13-bb54-82d154fb4aec,Dataiku,Data engineering,Indispensable
+4778b6b9-7573-4d13-bb54-82d154fb4aec,Recette / Tests,Méthodes & métier,Indispensable
 4778b6b9-7573-4d13-bb54-82d154fb4aec,Anglais,Méthodes & métier,Souhaité
+4778b6b9-7573-4d13-bb54-82d154fb4aec,Power BI,BI & visualisation,Indispensable
+4778b6b9-7573-4d13-bb54-82d154fb4aec,Recueil de besoins,Méthodes & métier,Indispensable
+4778b6b9-7573-4d13-bb54-82d154fb4aec,Spécifications fonctionnelles,Méthodes & métier,Indispensable
+4778b6b9-7573-4d13-bb54-82d154fb4aec,Excel,BI & visualisation,Indispensable
 4778b6b9-7573-4d13-bb54-82d154fb4aec,SAS,Langages,Indispensable
-481b5d98-984b-4966-a1c1-a35f5be026b3,Excel,BI & visualisation,Indispensable
+481b5d98-984b-4966-a1c1-a35f5be026b3,Data Governance,Gouvernance & qualité,Indispensable
 481b5d98-984b-4966-a1c1-a35f5be026b3,Gestion de projet,Méthodes & métier,Indispensable
 481b5d98-984b-4966-a1c1-a35f5be026b3,Tableau,BI & visualisation,Indispensable
-481b5d98-984b-4966-a1c1-a35f5be026b3,Data Governance,Gouvernance & qualité,Indispensable
-481b5d98-984b-4966-a1c1-a35f5be026b3,Qlik,BI & visualisation,Indispensable
+481b5d98-984b-4966-a1c1-a35f5be026b3,Excel,BI & visualisation,Indispensable
 481b5d98-984b-4966-a1c1-a35f5be026b3,Data Quality,Gouvernance & qualité,Indispensable
-4a6359bf-bcbb-4ad5-bc2d-4f0766823c7a,Agile / Scrum,Méthodes & métier,Indispensable
+481b5d98-984b-4966-a1c1-a35f5be026b3,Qlik,BI & visualisation,Indispensable
 4a6359bf-bcbb-4ad5-bc2d-4f0766823c7a,ETL,Data engineering,Indispensable
-4a6359bf-bcbb-4ad5-bc2d-4f0766823c7a,Data Governance,Gouvernance & qualité,Indispensable
 4a6359bf-bcbb-4ad5-bc2d-4f0766823c7a,Data Quality,Gouvernance & qualité,Indispensable
-4aa110a6-80e1-4898-8c92-c09066cd07e5,Excel,BI & visualisation,Indispensable
-4aa110a6-80e1-4898-8c92-c09066cd07e5,SAP,Méthodes & métier,Indispensable
-4aa110a6-80e1-4898-8c92-c09066cd07e5,Modélisation de données,Data engineering,Indispensable
+4a6359bf-bcbb-4ad5-bc2d-4f0766823c7a,Data Governance,Gouvernance & qualité,Indispensable
+4a6359bf-bcbb-4ad5-bc2d-4f0766823c7a,Agile / Scrum,Méthodes & métier,Indispensable
 4aa110a6-80e1-4898-8c92-c09066cd07e5,CRM,Méthodes & métier,Indispensable
 4aa110a6-80e1-4898-8c92-c09066cd07e5,Contrôle de gestion,Méthodes & métier,Indispensable
-4b609310-25e4-47be-973d-87b43f8f1d1a,Python,Langages,Indispensable
+4aa110a6-80e1-4898-8c92-c09066cd07e5,SAP,Méthodes & métier,Indispensable
+4aa110a6-80e1-4898-8c92-c09066cd07e5,Modélisation de données,Data engineering,Indispensable
+4aa110a6-80e1-4898-8c92-c09066cd07e5,Excel,BI & visualisation,Indispensable
 4b609310-25e4-47be-973d-87b43f8f1d1a,Fabric,Cloud,Indispensable
+4b609310-25e4-47be-973d-87b43f8f1d1a,Git,Méthodes & métier,Indispensable
+4b609310-25e4-47be-973d-87b43f8f1d1a,SQL,Langages,Indispensable
+4b609310-25e4-47be-973d-87b43f8f1d1a,Python,Langages,Indispensable
 4b609310-25e4-47be-973d-87b43f8f1d1a,Modélisation de données,Data engineering,Indispensable
 4b609310-25e4-47be-973d-87b43f8f1d1a,SQL Server,Bases de données,Indispensable
+4b609310-25e4-47be-973d-87b43f8f1d1a,Power BI,BI & visualisation,Indispensable
 4b609310-25e4-47be-973d-87b43f8f1d1a,Azure,Cloud,Indispensable
 4b609310-25e4-47be-973d-87b43f8f1d1a,Data Factory,Data engineering,Indispensable
-4b609310-25e4-47be-973d-87b43f8f1d1a,Power BI,BI & visualisation,Indispensable
-4b609310-25e4-47be-973d-87b43f8f1d1a,SQL,Langages,Indispensable
 4b609310-25e4-47be-973d-87b43f8f1d1a,Anglais,Méthodes & métier,Indispensable
-4b609310-25e4-47be-973d-87b43f8f1d1a,Git,Méthodes & métier,Indispensable
-4edaf39d-c2d6-4ebc-816f-5ecdd91bf85f,PostgreSQL,Bases de données,Indispensable
-4edaf39d-c2d6-4ebc-816f-5ecdd91bf85f,SQL,Langages,Indispensable
 4edaf39d-c2d6-4ebc-816f-5ecdd91bf85f,Gestion de projet,Méthodes & métier,Indispensable
+4edaf39d-c2d6-4ebc-816f-5ecdd91bf85f,PostgreSQL,Bases de données,Indispensable
 4edaf39d-c2d6-4ebc-816f-5ecdd91bf85f,SQL Server,Bases de données,Indispensable
+4edaf39d-c2d6-4ebc-816f-5ecdd91bf85f,SQL,Langages,Indispensable
 4f690ef9-5eaa-4b17-8537-510398207bed,Spécifications fonctionnelles,Méthodes & métier,Indispensable
 4f690ef9-5eaa-4b17-8537-510398207bed,Python,Langages,Indispensable
 4f690ef9-5eaa-4b17-8537-510398207bed,IA / LLM,Data science / IA,Souhaité
-50690692-5213-4f4f-b2f3-47e257e04155,Confluence,Méthodes & métier,Indispensable
-50690692-5213-4f4f-b2f3-47e257e04155,Agile / Scrum,Méthodes & métier,Indispensable
-50690692-5213-4f4f-b2f3-47e257e04155,Anglais,Méthodes & métier,Indispensable
 50690692-5213-4f4f-b2f3-47e257e04155,Jira,Méthodes & métier,Indispensable
+50690692-5213-4f4f-b2f3-47e257e04155,Confluence,Méthodes & métier,Indispensable
+50690692-5213-4f4f-b2f3-47e257e04155,Anglais,Méthodes & métier,Indispensable
+50690692-5213-4f4f-b2f3-47e257e04155,Agile / Scrum,Méthodes & métier,Indispensable
 50ca6720-183c-45d6-9624-e08dece92ba0,SAP,Méthodes & métier,Indispensable
 50ca6720-183c-45d6-9624-e08dece92ba0,MDM,Gouvernance & qualité,Indispensable
-513faab6-6811-4a77-96a3-5665b27f048e,Excel,BI & visualisation,Indispensable
-513faab6-6811-4a77-96a3-5665b27f048e,SQL,Langages,Indispensable
-513faab6-6811-4a77-96a3-5665b27f048e,ERP,Méthodes & métier,Indispensable
 513faab6-6811-4a77-96a3-5665b27f048e,Spécifications fonctionnelles,Méthodes & métier,Indispensable
-5332f9a5-da5c-4438-a068-703335586be2,Python,Langages,Indispensable
-5332f9a5-da5c-4438-a068-703335586be2,ETL,Data engineering,Indispensable
+513faab6-6811-4a77-96a3-5665b27f048e,Excel,BI & visualisation,Indispensable
+513faab6-6811-4a77-96a3-5665b27f048e,ERP,Méthodes & métier,Indispensable
+513faab6-6811-4a77-96a3-5665b27f048e,SQL,Langages,Indispensable
 5332f9a5-da5c-4438-a068-703335586be2,IA / LLM,Data science / IA,Indispensable
-5332f9a5-da5c-4438-a068-703335586be2,RGPD,Gouvernance & qualité,Indispensable
 5332f9a5-da5c-4438-a068-703335586be2,SQL,Langages,Indispensable
 5332f9a5-da5c-4438-a068-703335586be2,Data Governance,Gouvernance & qualité,Indispensable
+5332f9a5-da5c-4438-a068-703335586be2,RGPD,Gouvernance & qualité,Indispensable
+5332f9a5-da5c-4438-a068-703335586be2,Python,Langages,Indispensable
 5332f9a5-da5c-4438-a068-703335586be2,Data Quality,Gouvernance & qualité,Indispensable
-54706aaf-5218-4b94-ac20-58fd83ad09a0,SQL,Langages,Indispensable
-54706aaf-5218-4b94-ac20-58fd83ad09a0,Agile / Scrum,Méthodes & métier,Indispensable
-54706aaf-5218-4b94-ac20-58fd83ad09a0,Gestion de projet,Méthodes & métier,Indispensable
+5332f9a5-da5c-4438-a068-703335586be2,ETL,Data engineering,Indispensable
 54706aaf-5218-4b94-ac20-58fd83ad09a0,SQL Server,Bases de données,Indispensable
 54706aaf-5218-4b94-ac20-58fd83ad09a0,Power BI,BI & visualisation,Indispensable
+54706aaf-5218-4b94-ac20-58fd83ad09a0,Agile / Scrum,Méthodes & métier,Indispensable
+54706aaf-5218-4b94-ac20-58fd83ad09a0,SQL,Langages,Indispensable
 54706aaf-5218-4b94-ac20-58fd83ad09a0,Data Warehouse,Data engineering,Indispensable
+54706aaf-5218-4b94-ac20-58fd83ad09a0,Gestion de projet,Méthodes & métier,Indispensable
 55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,Fabric,Cloud,Indispensable
-55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,Gestion de projet,Méthodes & métier,Indispensable
-55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,ETL,Data engineering,Indispensable
-55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,Modélisation de données,Data engineering,Indispensable
+55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,IA / LLM,Data science / IA,Indispensable
+55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,SQL,Langages,Indispensable
 55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,Oracle,Bases de données,Indispensable
+55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,Data Governance,Gouvernance & qualité,Indispensable
+55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,Modélisation de données,Data engineering,Indispensable
+55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,MDM,Gouvernance & qualité,Indispensable
+55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,Gestion de projet,Méthodes & métier,Indispensable
 55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,Talend,Data engineering,Indispensable
 55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,SQL Server,Bases de données,Indispensable
 55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,Power BI,BI & visualisation,Indispensable
-55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,SQL,Langages,Indispensable
-55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,MDM,Gouvernance & qualité,Indispensable
-55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,Data Governance,Gouvernance & qualité,Indispensable
-55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,IA / LLM,Data science / IA,Indispensable
+55a1f9f5-c6c3-4759-8af2-fb31c11fc5d1,ETL,Data engineering,Indispensable
 5686c495-19cc-4bd9-bc4f-c50bd1a68608,CRM,Méthodes & métier,Indispensable
 5686c495-19cc-4bd9-bc4f-c50bd1a68608,Data Governance,Gouvernance & qualité,Indispensable
 5686c495-19cc-4bd9-bc4f-c50bd1a68608,IA / LLM,Data science / IA,Indispensable
+572728a6-f9bc-43bd-8ba7-acb860fcf86b,Jira,Méthodes & métier,Indispensable
 572728a6-f9bc-43bd-8ba7-acb860fcf86b,Confluence,Méthodes & métier,Indispensable
 572728a6-f9bc-43bd-8ba7-acb860fcf86b,Agile / Scrum,Méthodes & métier,Indispensable
-572728a6-f9bc-43bd-8ba7-acb860fcf86b,Jira,Méthodes & métier,Indispensable
 5b112466-4019-4d7a-a838-f362bcd42bbe,PostgreSQL,Bases de données,Indispensable
-5b112466-4019-4d7a-a838-f362bcd42bbe,SQL,Langages,Indispensable
 5b112466-4019-4d7a-a838-f362bcd42bbe,SQL Server,Bases de données,Indispensable
-5b112466-4019-4d7a-a838-f362bcd42bbe,Oracle,Bases de données,Indispensable
 5b112466-4019-4d7a-a838-f362bcd42bbe,MySQL,Bases de données,Indispensable
-5c724e96-cd98-438f-b508-c57a2b972ce6,Excel,BI & visualisation,Indispensable
-5c724e96-cd98-438f-b508-c57a2b972ce6,Spécifications fonctionnelles,Méthodes & métier,Indispensable
-5c724e96-cd98-438f-b508-c57a2b972ce6,Python,Langages,Indispensable
+5b112466-4019-4d7a-a838-f362bcd42bbe,SQL,Langages,Indispensable
+5b112466-4019-4d7a-a838-f362bcd42bbe,Oracle,Bases de données,Indispensable
 5c724e96-cd98-438f-b508-c57a2b972ce6,JavaScript,Langages,Indispensable
-5c724e96-cd98-438f-b508-c57a2b972ce6,Data Quality,Gouvernance & qualité,Indispensable
-5c724e96-cd98-438f-b508-c57a2b972ce6,Power BI,BI & visualisation,Indispensable
 5c724e96-cd98-438f-b508-c57a2b972ce6,SQL,Langages,Indispensable
+5c724e96-cd98-438f-b508-c57a2b972ce6,Python,Langages,Indispensable
 5c724e96-cd98-438f-b508-c57a2b972ce6,Anglais,Méthodes & métier,Indispensable
-5ee03b6f-92a4-473b-8ab6-be1c0a54990a,.NET / C#,Langages,Indispensable
+5c724e96-cd98-438f-b508-c57a2b972ce6,Power BI,BI & visualisation,Indispensable
+5c724e96-cd98-438f-b508-c57a2b972ce6,Spécifications fonctionnelles,Méthodes & métier,Indispensable
+5c724e96-cd98-438f-b508-c57a2b972ce6,Excel,BI & visualisation,Indispensable
+5c724e96-cd98-438f-b508-c57a2b972ce6,Data Quality,Gouvernance & qualité,Indispensable
 5ee03b6f-92a4-473b-8ab6-be1c0a54990a,Agile / Scrum,Méthodes & métier,Indispensable
 5ee03b6f-92a4-473b-8ab6-be1c0a54990a,Gestion de projet,Méthodes & métier,Indispensable
-5ee03b6f-92a4-473b-8ab6-be1c0a54990a,SQL,Langages,Indispensable
 5ee03b6f-92a4-473b-8ab6-be1c0a54990a,Anglais,Méthodes & métier,Souhaité
-5f488c11-98f6-4b85-9803-b47b8b96cf87,Gestion de projet,Méthodes & métier,Indispensable
+5ee03b6f-92a4-473b-8ab6-be1c0a54990a,SQL,Langages,Indispensable
+5ee03b6f-92a4-473b-8ab6-be1c0a54990a,.NET / C#,Langages,Indispensable
 5f488c11-98f6-4b85-9803-b47b8b96cf87,Anglais,Méthodes & métier,Indispensable
 5f488c11-98f6-4b85-9803-b47b8b96cf87,Recette / Tests,Méthodes & métier,Indispensable
+5f488c11-98f6-4b85-9803-b47b8b96cf87,Gestion de projet,Méthodes & métier,Indispensable
 613b9471-5751-459f-a17e-846b9053d217,Agile / Scrum,Méthodes & métier,Indispensable
-613e71f3-2d99-49c8-bdc4-54b4f0d7595c,PostgreSQL,Bases de données,Indispensable
-613e71f3-2d99-49c8-bdc4-54b4f0d7595c,ETL,Data engineering,Indispensable
-613e71f3-2d99-49c8-bdc4-54b4f0d7595c,Modélisation de données,Data engineering,Indispensable
-613e71f3-2d99-49c8-bdc4-54b4f0d7595c,Airflow,Data engineering,Indispensable
-613e71f3-2d99-49c8-bdc4-54b4f0d7595c,Data Quality,Gouvernance & qualité,Indispensable
-613e71f3-2d99-49c8-bdc4-54b4f0d7595c,dbt,Data engineering,Indispensable
 613e71f3-2d99-49c8-bdc4-54b4f0d7595c,Kafka,Data engineering,Indispensable
+613e71f3-2d99-49c8-bdc4-54b4f0d7595c,dbt,Data engineering,Indispensable
 613e71f3-2d99-49c8-bdc4-54b4f0d7595c,SQL,Langages,Indispensable
+613e71f3-2d99-49c8-bdc4-54b4f0d7595c,Modélisation de données,Data engineering,Indispensable
+613e71f3-2d99-49c8-bdc4-54b4f0d7595c,PostgreSQL,Bases de données,Indispensable
+613e71f3-2d99-49c8-bdc4-54b4f0d7595c,Airflow,Data engineering,Indispensable
+613e71f3-2d99-49c8-bdc4-54b4f0d7595c,ETL,Data engineering,Indispensable
 613e71f3-2d99-49c8-bdc4-54b4f0d7595c,Anglais,Méthodes & métier,Indispensable
-626bca4d-9218-4fc8-bd38-3c1367cbe200,Excel,BI & visualisation,Indispensable
+613e71f3-2d99-49c8-bdc4-54b4f0d7595c,Data Quality,Gouvernance & qualité,Indispensable
 626bca4d-9218-4fc8-bd38-3c1367cbe200,Statistiques,Data science / IA,Indispensable
-626bca4d-9218-4fc8-bd38-3c1367cbe200,Python,Langages,Indispensable
-626bca4d-9218-4fc8-bd38-3c1367cbe200,Recueil de besoins,Méthodes & métier,Indispensable
-626bca4d-9218-4fc8-bd38-3c1367cbe200,SQL,Langages,Indispensable
-626bca4d-9218-4fc8-bd38-3c1367cbe200,Power BI,BI & visualisation,Indispensable
-626bca4d-9218-4fc8-bd38-3c1367cbe200,Tableau,BI & visualisation,Indispensable
 626bca4d-9218-4fc8-bd38-3c1367cbe200,IA / LLM,Data science / IA,Indispensable
-63412e1a-aba6-4671-91ec-44e387816a43,Excel,BI & visualisation,Indispensable
-63412e1a-aba6-4671-91ec-44e387816a43,RGPD,Gouvernance & qualité,Indispensable
-63412e1a-aba6-4671-91ec-44e387816a43,Anglais,Méthodes & métier,Indispensable
+626bca4d-9218-4fc8-bd38-3c1367cbe200,SQL,Langages,Indispensable
+626bca4d-9218-4fc8-bd38-3c1367cbe200,Tableau,BI & visualisation,Indispensable
+626bca4d-9218-4fc8-bd38-3c1367cbe200,Python,Langages,Indispensable
+626bca4d-9218-4fc8-bd38-3c1367cbe200,Power BI,BI & visualisation,Indispensable
+626bca4d-9218-4fc8-bd38-3c1367cbe200,Recueil de besoins,Méthodes & métier,Indispensable
+626bca4d-9218-4fc8-bd38-3c1367cbe200,Excel,BI & visualisation,Indispensable
 63412e1a-aba6-4671-91ec-44e387816a43,Data Governance,Gouvernance & qualité,Indispensable
 63412e1a-aba6-4671-91ec-44e387816a43,IA / LLM,Data science / IA,Indispensable
-63b9d14f-3b6c-46b4-80d4-cd6801180588,Spécifications fonctionnelles,Méthodes & métier,Indispensable
-63b9d14f-3b6c-46b4-80d4-cd6801180588,IA / LLM,Data science / IA,Indispensable
+63412e1a-aba6-4671-91ec-44e387816a43,RGPD,Gouvernance & qualité,Indispensable
+63412e1a-aba6-4671-91ec-44e387816a43,Anglais,Méthodes & métier,Indispensable
+63412e1a-aba6-4671-91ec-44e387816a43,Excel,BI & visualisation,Indispensable
 63b9d14f-3b6c-46b4-80d4-cd6801180588,Machine Learning,Data science / IA,Indispensable
+63b9d14f-3b6c-46b4-80d4-cd6801180588,IA / LLM,Data science / IA,Indispensable
+63b9d14f-3b6c-46b4-80d4-cd6801180588,Spécifications fonctionnelles,Méthodes & métier,Indispensable
 63b9d14f-3b6c-46b4-80d4-cd6801180588,Anglais,Méthodes & métier,Indispensable
 63b9d14f-3b6c-46b4-80d4-cd6801180588,Recette / Tests,Méthodes & métier,Indispensable
 63c022eb-aa1f-4e69-8e7f-542620265418,Spécifications fonctionnelles,Méthodes & métier,Indispensable
+63c022eb-aa1f-4e69-8e7f-542620265418,Recette / Tests,Méthodes & métier,Indispensable
 63c022eb-aa1f-4e69-8e7f-542620265418,Agile / Scrum,Méthodes & métier,Indispensable
 63c022eb-aa1f-4e69-8e7f-542620265418,Anglais,Méthodes & métier,Indispensable
-63c022eb-aa1f-4e69-8e7f-542620265418,Recette / Tests,Méthodes & métier,Indispensable
-6519e1a8-0e91-4943-8870-b0dc474ddc12,SQL,Langages,Indispensable
-6519e1a8-0e91-4943-8870-b0dc474ddc12,Agile / Scrum,Méthodes & métier,Indispensable
 6519e1a8-0e91-4943-8870-b0dc474ddc12,Snowflake,Bases de données,Indispensable
+6519e1a8-0e91-4943-8870-b0dc474ddc12,Agile / Scrum,Méthodes & métier,Indispensable
 6519e1a8-0e91-4943-8870-b0dc474ddc12,IA / LLM,Data science / IA,Indispensable
+6519e1a8-0e91-4943-8870-b0dc474ddc12,SQL,Langages,Indispensable
 65e04ac4-b913-4c2a-aac1-c991b546d8a7,Tableau,BI & visualisation,Indispensable
 65e04ac4-b913-4c2a-aac1-c991b546d8a7,Data Governance,Gouvernance & qualité,Indispensable
 67f174aa-1285-47d0-b4b1-9fdaacd8a6ad,Spécifications fonctionnelles,Méthodes & métier,Indispensable
-67f174aa-1285-47d0-b4b1-9fdaacd8a6ad,Agile / Scrum,Méthodes & métier,Indispensable
 67f174aa-1285-47d0-b4b1-9fdaacd8a6ad,Recette / Tests,Méthodes & métier,Indispensable
-683cf976-c5a6-4d09-838c-f1a116abbf08,SQL,Langages,Indispensable
+67f174aa-1285-47d0-b4b1-9fdaacd8a6ad,Agile / Scrum,Méthodes & métier,Indispensable
 683cf976-c5a6-4d09-838c-f1a116abbf08,Spark,Data engineering,Indispensable
-683cf976-c5a6-4d09-838c-f1a116abbf08,Gestion de projet,Méthodes & métier,Indispensable
 683cf976-c5a6-4d09-838c-f1a116abbf08,Power BI,BI & visualisation,Indispensable
+683cf976-c5a6-4d09-838c-f1a116abbf08,SQL,Langages,Indispensable
 683cf976-c5a6-4d09-838c-f1a116abbf08,Data Warehouse,Data engineering,Indispensable
 683cf976-c5a6-4d09-838c-f1a116abbf08,Anglais,Méthodes & métier,Indispensable
+683cf976-c5a6-4d09-838c-f1a116abbf08,Gestion de projet,Méthodes & métier,Indispensable
 683cf976-c5a6-4d09-838c-f1a116abbf08,Data Quality,Gouvernance & qualité,Indispensable
 68d3affd-d749-4089-8c35-5c9ac71c4013,Recette / Tests,Méthodes & métier,Indispensable
 68d3affd-d749-4089-8c35-5c9ac71c4013,IA / LLM,Data science / IA,Indispensable
-6931229c-c969-4d5f-9ef0-dc33cd2723c9,Python,Langages,Indispensable
-6931229c-c969-4d5f-9ef0-dc33cd2723c9,Azure,Cloud,Indispensable
-6931229c-c969-4d5f-9ef0-dc33cd2723c9,SQL,Langages,Indispensable
 6931229c-c969-4d5f-9ef0-dc33cd2723c9,GCP,Cloud,Indispensable
-6931229c-c969-4d5f-9ef0-dc33cd2723c9,AWS,Cloud,Indispensable
 6931229c-c969-4d5f-9ef0-dc33cd2723c9,Anglais,Méthodes & métier,Indispensable
 6931229c-c969-4d5f-9ef0-dc33cd2723c9,IA / LLM,Data science / IA,Indispensable
-6955a266-9470-4f76-81bc-be3f1632ca11,PostgreSQL,Bases de données,Indispensable
-6955a266-9470-4f76-81bc-be3f1632ca11,Python,Langages,Indispensable
+6931229c-c969-4d5f-9ef0-dc33cd2723c9,SQL,Langages,Indispensable
+6931229c-c969-4d5f-9ef0-dc33cd2723c9,AWS,Cloud,Indispensable
+6931229c-c969-4d5f-9ef0-dc33cd2723c9,Python,Langages,Indispensable
+6931229c-c969-4d5f-9ef0-dc33cd2723c9,Azure,Cloud,Indispensable
 6955a266-9470-4f76-81bc-be3f1632ca11,Agile / Scrum,Méthodes & métier,Indispensable
-6955a266-9470-4f76-81bc-be3f1632ca11,ETL,Data engineering,Indispensable
 6955a266-9470-4f76-81bc-be3f1632ca11,Gestion de projet,Méthodes & métier,Indispensable
+6955a266-9470-4f76-81bc-be3f1632ca11,Python,Langages,Indispensable
 6955a266-9470-4f76-81bc-be3f1632ca11,Talend,Data engineering,Indispensable
-6955a266-9470-4f76-81bc-be3f1632ca11,Power BI,BI & visualisation,Indispensable
 6955a266-9470-4f76-81bc-be3f1632ca11,Spark,Data engineering,Indispensable
+6955a266-9470-4f76-81bc-be3f1632ca11,PostgreSQL,Bases de données,Indispensable
+6955a266-9470-4f76-81bc-be3f1632ca11,Power BI,BI & visualisation,Indispensable
+6955a266-9470-4f76-81bc-be3f1632ca11,ETL,Data engineering,Indispensable
 6955a266-9470-4f76-81bc-be3f1632ca11,Java,Langages,Indispensable
 6d0af1a8-bff8-4503-9976-69a9175a458a,PostgreSQL,Bases de données,Indispensable
-6d0af1a8-bff8-4503-9976-69a9175a458a,SQL,Langages,Indispensable
 6d0af1a8-bff8-4503-9976-69a9175a458a,dbt,Data engineering,Indispensable
 6d0af1a8-bff8-4503-9976-69a9175a458a,IA / LLM,Data science / IA,Indispensable
-6e4469dc-d6c8-4b5a-b666-2c302a422418,Statistiques,Data science / IA,Indispensable
-6e4469dc-d6c8-4b5a-b666-2c302a422418,Anglais,Méthodes & métier,Indispensable
+6d0af1a8-bff8-4503-9976-69a9175a458a,SQL,Langages,Indispensable
 6e4469dc-d6c8-4b5a-b666-2c302a422418,Git,Méthodes & métier,Indispensable
+6e4469dc-d6c8-4b5a-b666-2c302a422418,Anglais,Méthodes & métier,Indispensable
+6e4469dc-d6c8-4b5a-b666-2c302a422418,Statistiques,Data science / IA,Indispensable
 6ee60f3b-e4dc-4f3b-b70b-0779048d855a,Excel,BI & visualisation,Indispensable
 6ee60f3b-e4dc-4f3b-b70b-0779048d855a,Recette / Tests,Méthodes & métier,Indispensable
-73c09d32-6c4f-4ee8-91d1-4bbd8cf3aaf1,Agile / Scrum,Méthodes & métier,Indispensable
 73c09d32-6c4f-4ee8-91d1-4bbd8cf3aaf1,CRM,Méthodes & métier,Indispensable
 73c09d32-6c4f-4ee8-91d1-4bbd8cf3aaf1,Recette / Tests,Méthodes & métier,Indispensable
+73c09d32-6c4f-4ee8-91d1-4bbd8cf3aaf1,Agile / Scrum,Méthodes & métier,Indispensable
 759b137e-13ef-48ca-a3e8-5eddf986f504,Spécifications fonctionnelles,Méthodes & métier,Indispensable
+759b137e-13ef-48ca-a3e8-5eddf986f504,Anglais,Méthodes & métier,Indispensable
 759b137e-13ef-48ca-a3e8-5eddf986f504,Agile / Scrum,Méthodes & métier,Indispensable
 759b137e-13ef-48ca-a3e8-5eddf986f504,Gestion de projet,Méthodes & métier,Indispensable
-759b137e-13ef-48ca-a3e8-5eddf986f504,Anglais,Méthodes & métier,Indispensable
 7674fd9e-ae3c-4312-9170-b312874a6bf7,Spécifications fonctionnelles,Méthodes & métier,Indispensable
 7674fd9e-ae3c-4312-9170-b312874a6bf7,Agile / Scrum,Méthodes & métier,Indispensable
 7674fd9e-ae3c-4312-9170-b312874a6bf7,Gestion de projet,Méthodes & métier,Indispensable
-78323a6f-dd5f-48e8-bf26-6a499279165f,Gestion de projet,Méthodes & métier,Indispensable
 78323a6f-dd5f-48e8-bf26-6a499279165f,Anglais,Méthodes & métier,Indispensable
+78323a6f-dd5f-48e8-bf26-6a499279165f,Gestion de projet,Méthodes & métier,Indispensable
 7aa1bd4c-62d8-4e88-92e9-d034db5b4e4d,Excel,BI & visualisation,Indispensable
 7aa1bd4c-62d8-4e88-92e9-d034db5b4e4d,Gestion de projet,Méthodes & métier,Indispensable
 7ab68924-ea18-40fb-a6d7-fcfd8986f1bc,SAP,Méthodes & métier,Indispensable
+7be840b2-c21a-4b94-944c-a3bb4ebf2f39,ETL,Data engineering,Indispensable
 7be840b2-c21a-4b94-944c-a3bb4ebf2f39,Spark,Data engineering,Indispensable
 7be840b2-c21a-4b94-944c-a3bb4ebf2f39,Machine Learning,Data science / IA,Indispensable
-7be840b2-c21a-4b94-944c-a3bb4ebf2f39,ETL,Data engineering,Indispensable
 7c371451-09fa-4f2b-8f85-7c2357fac466,Agile / Scrum,Méthodes & métier,Indispensable
 7f170969-363a-4724-9441-2cdab68b9e9b,Data Governance,Gouvernance & qualité,Indispensable
 7f575fae-6ebf-42f7-8580-754f0c98c369,Recueil de besoins,Méthodes & métier,Indispensable
-7f643b93-bd4f-4af9-bce6-0394e299e857,BigQuery,Bases de données,Indispensable
-7f643b93-bd4f-4af9-bce6-0394e299e857,Agile / Scrum,Méthodes & métier,Indispensable
-7f643b93-bd4f-4af9-bce6-0394e299e857,Oracle,Bases de données,Indispensable
 7f643b93-bd4f-4af9-bce6-0394e299e857,GCP,Cloud,Indispensable
-7f643b93-bd4f-4af9-bce6-0394e299e857,Salesforce,Méthodes & métier,Indispensable
-7f643b93-bd4f-4af9-bce6-0394e299e857,Data Quality,Gouvernance & qualité,Indispensable
-7f643b93-bd4f-4af9-bce6-0394e299e857,Power BI,BI & visualisation,Indispensable
-7f643b93-bd4f-4af9-bce6-0394e299e857,SQL,Langages,Indispensable
-7f643b93-bd4f-4af9-bce6-0394e299e857,Anglais,Méthodes & métier,Indispensable
+7f643b93-bd4f-4af9-bce6-0394e299e857,BigQuery,Bases de données,Indispensable
 7f643b93-bd4f-4af9-bce6-0394e299e857,Data Governance,Gouvernance & qualité,Indispensable
+7f643b93-bd4f-4af9-bce6-0394e299e857,SQL,Langages,Indispensable
+7f643b93-bd4f-4af9-bce6-0394e299e857,Oracle,Bases de données,Indispensable
+7f643b93-bd4f-4af9-bce6-0394e299e857,Agile / Scrum,Méthodes & métier,Indispensable
+7f643b93-bd4f-4af9-bce6-0394e299e857,Salesforce,Méthodes & métier,Indispensable
+7f643b93-bd4f-4af9-bce6-0394e299e857,Power BI,BI & visualisation,Indispensable
+7f643b93-bd4f-4af9-bce6-0394e299e857,Anglais,Méthodes & métier,Indispensable
+7f643b93-bd4f-4af9-bce6-0394e299e857,Data Quality,Gouvernance & qualité,Indispensable
 8108d36e-2454-4427-9d5a-d062db304fd6,Anglais,Méthodes & métier,Indispensable
-8108d36e-2454-4427-9d5a-d062db304fd6,Gestion de projet,Méthodes & métier,Indispensable
 8108d36e-2454-4427-9d5a-d062db304fd6,SAP,Méthodes & métier,Indispensable
+8108d36e-2454-4427-9d5a-d062db304fd6,Gestion de projet,Méthodes & métier,Indispensable
 81349661-1e1f-4894-a4da-ef5e277f5d50,Spécifications fonctionnelles,Méthodes & métier,Indispensable
-81349661-1e1f-4894-a4da-ef5e277f5d50,Agile / Scrum,Méthodes & métier,Indispensable
 81349661-1e1f-4894-a4da-ef5e277f5d50,Java,Langages,Indispensable
 81349661-1e1f-4894-a4da-ef5e277f5d50,Recette / Tests,Méthodes & métier,Indispensable
-8204544d-431f-454d-9a3d-12b5e7dc2205,Gestion de projet,Méthodes & métier,Indispensable
+81349661-1e1f-4894-a4da-ef5e277f5d50,Agile / Scrum,Méthodes & métier,Indispensable
 8204544d-431f-454d-9a3d-12b5e7dc2205,Data Governance,Gouvernance & qualité,Indispensable
 8204544d-431f-454d-9a3d-12b5e7dc2205,IA / LLM,Data science / IA,Indispensable
+8204544d-431f-454d-9a3d-12b5e7dc2205,Gestion de projet,Méthodes & métier,Indispensable
 82322d08-b68d-464d-b6f7-ae707167550b,Statistiques,Data science / IA,Indispensable
-82322d08-b68d-464d-b6f7-ae707167550b,Excel,BI & visualisation,Indispensable
 82322d08-b68d-464d-b6f7-ae707167550b,Agile / Scrum,Méthodes & métier,Indispensable
+82322d08-b68d-464d-b6f7-ae707167550b,SQL,Langages,Indispensable
 82322d08-b68d-464d-b6f7-ae707167550b,Gestion de projet,Méthodes & métier,Indispensable
 82322d08-b68d-464d-b6f7-ae707167550b,Power Query,BI & visualisation,Indispensable
 82322d08-b68d-464d-b6f7-ae707167550b,Modélisation de données,Data engineering,Indispensable
-82322d08-b68d-464d-b6f7-ae707167550b,SQL,Langages,Indispensable
+82322d08-b68d-464d-b6f7-ae707167550b,Excel,BI & visualisation,Indispensable
+82d2507d-ec30-4a34-985f-d4ec296fb8ed,Anglais,Méthodes & métier,Indispensable
 82d2507d-ec30-4a34-985f-d4ec296fb8ed,Agile / Scrum,Méthodes & métier,Indispensable
 82d2507d-ec30-4a34-985f-d4ec296fb8ed,Gestion de projet,Méthodes & métier,Indispensable
-82d2507d-ec30-4a34-985f-d4ec296fb8ed,Anglais,Méthodes & métier,Indispensable
-82f2e2dc-3c9b-48b3-8f2b-448b6e41585c,PostgreSQL,Bases de données,Indispensable
-82f2e2dc-3c9b-48b3-8f2b-448b6e41585c,ETL,Data engineering,Indispensable
+82f2e2dc-3c9b-48b3-8f2b-448b6e41585c,SQL,Langages,Indispensable
 82f2e2dc-3c9b-48b3-8f2b-448b6e41585c,Oracle,Bases de données,Indispensable
 82f2e2dc-3c9b-48b3-8f2b-448b6e41585c,Data Warehouse,Data engineering,Indispensable
-82f2e2dc-3c9b-48b3-8f2b-448b6e41585c,Talend,Data engineering,Indispensable
-82f2e2dc-3c9b-48b3-8f2b-448b6e41585c,SQL Server,Bases de données,Indispensable
 82f2e2dc-3c9b-48b3-8f2b-448b6e41585c,MongoDB / NoSQL,Bases de données,Indispensable
+82f2e2dc-3c9b-48b3-8f2b-448b6e41585c,Talend,Data engineering,Indispensable
 82f2e2dc-3c9b-48b3-8f2b-448b6e41585c,Informatica,Data engineering,Indispensable
-82f2e2dc-3c9b-48b3-8f2b-448b6e41585c,SQL,Langages,Indispensable
+82f2e2dc-3c9b-48b3-8f2b-448b6e41585c,PostgreSQL,Bases de données,Indispensable
+82f2e2dc-3c9b-48b3-8f2b-448b6e41585c,SQL Server,Bases de données,Indispensable
+82f2e2dc-3c9b-48b3-8f2b-448b6e41585c,ETL,Data engineering,Indispensable
 82f2e2dc-3c9b-48b3-8f2b-448b6e41585c,Qlik,BI & visualisation,Indispensable
+82fcee60-a14e-4f05-80a0-08690d637d5d,Jira,Méthodes & métier,Indispensable
+82fcee60-a14e-4f05-80a0-08690d637d5d,Power BI,BI & visualisation,Indispensable
 82fcee60-a14e-4f05-80a0-08690d637d5d,Agile / Scrum,Méthodes & métier,Indispensable
 82fcee60-a14e-4f05-80a0-08690d637d5d,Modélisation de données,Data engineering,Indispensable
 82fcee60-a14e-4f05-80a0-08690d637d5d,ERP,Méthodes & métier,Indispensable
-82fcee60-a14e-4f05-80a0-08690d637d5d,Jira,Méthodes & métier,Indispensable
-82fcee60-a14e-4f05-80a0-08690d637d5d,Power BI,BI & visualisation,Indispensable
+84916a27-b12c-4eec-bc94-90b38fdd0efd,Jira,Méthodes & métier,Indispensable
 84916a27-b12c-4eec-bc94-90b38fdd0efd,Statistiques,Data science / IA,Indispensable
-84916a27-b12c-4eec-bc94-90b38fdd0efd,Python,Langages,Indispensable
+84916a27-b12c-4eec-bc94-90b38fdd0efd,Data Governance,Gouvernance & qualité,Indispensable
+84916a27-b12c-4eec-bc94-90b38fdd0efd,SQL,Langages,Indispensable
 84916a27-b12c-4eec-bc94-90b38fdd0efd,Agile / Scrum,Méthodes & métier,Indispensable
-84916a27-b12c-4eec-bc94-90b38fdd0efd,AWS,Cloud,Indispensable
+84916a27-b12c-4eec-bc94-90b38fdd0efd,Python,Langages,Indispensable
+84916a27-b12c-4eec-bc94-90b38fdd0efd,Dataiku,Data engineering,Indispensable
 84916a27-b12c-4eec-bc94-90b38fdd0efd,Confluence,Méthodes & métier,Indispensable
 84916a27-b12c-4eec-bc94-90b38fdd0efd,Power BI,BI & visualisation,Indispensable
-84916a27-b12c-4eec-bc94-90b38fdd0efd,SQL,Langages,Indispensable
-84916a27-b12c-4eec-bc94-90b38fdd0efd,Data Governance,Gouvernance & qualité,Indispensable
-84916a27-b12c-4eec-bc94-90b38fdd0efd,Jira,Méthodes & métier,Indispensable
-84916a27-b12c-4eec-bc94-90b38fdd0efd,Dataiku,Data engineering,Indispensable
-8ead231f-c676-43c6-9e8d-b7d38c0dbed1,SQL,Langages,Indispensable
-8ead231f-c676-43c6-9e8d-b7d38c0dbed1,.NET / C#,Langages,Indispensable
+84916a27-b12c-4eec-bc94-90b38fdd0efd,AWS,Cloud,Indispensable
 8ead231f-c676-43c6-9e8d-b7d38c0dbed1,Gestion de projet,Méthodes & métier,Indispensable
-8f526968-03c6-43dd-8415-c28043e597f0,Excel,BI & visualisation,Indispensable
+8ead231f-c676-43c6-9e8d-b7d38c0dbed1,.NET / C#,Langages,Indispensable
+8ead231f-c676-43c6-9e8d-b7d38c0dbed1,SQL,Langages,Indispensable
 8f526968-03c6-43dd-8415-c28043e597f0,Anglais,Méthodes & métier,Indispensable
+8f526968-03c6-43dd-8415-c28043e597f0,Excel,BI & visualisation,Indispensable
 8f526968-03c6-43dd-8415-c28043e597f0,ERP,Méthodes & métier,Indispensable
 8f526968-03c6-43dd-8415-c28043e597f0,IA / LLM,Data science / IA,Indispensable
-9072386b-577d-46c2-9ba8-8d9f05844e5b,SQL,Langages,Indispensable
-9072386b-577d-46c2-9ba8-8d9f05844e5b,Gestion de projet,Méthodes & métier,Indispensable
 9072386b-577d-46c2-9ba8-8d9f05844e5b,Power BI,BI & visualisation,Indispensable
-9072386b-577d-46c2-9ba8-8d9f05844e5b,Oracle,Bases de données,Indispensable
 9072386b-577d-46c2-9ba8-8d9f05844e5b,Data Quality,Gouvernance & qualité,Indispensable
-91957cbf-f7ec-4872-8b4f-5bc61fd85a7d,Gestion de projet,Méthodes & métier,Indispensable
+9072386b-577d-46c2-9ba8-8d9f05844e5b,Gestion de projet,Méthodes & métier,Indispensable
+9072386b-577d-46c2-9ba8-8d9f05844e5b,Oracle,Bases de données,Indispensable
+9072386b-577d-46c2-9ba8-8d9f05844e5b,SQL,Langages,Indispensable
 91957cbf-f7ec-4872-8b4f-5bc61fd85a7d,CRM,Méthodes & métier,Indispensable
 91957cbf-f7ec-4872-8b4f-5bc61fd85a7d,Data Governance,Gouvernance & qualité,Indispensable
 91957cbf-f7ec-4872-8b4f-5bc61fd85a7d,IA / LLM,Data science / IA,Indispensable
-91dc2861-cc2f-4dce-9647-3b4df7340865,Statistiques,Data science / IA,Indispensable
-91dc2861-cc2f-4dce-9647-3b4df7340865,R,Langages,Indispensable
-91dc2861-cc2f-4dce-9647-3b4df7340865,Python,Langages,Indispensable
-91dc2861-cc2f-4dce-9647-3b4df7340865,Gestion de projet,Méthodes & métier,Indispensable
+91957cbf-f7ec-4872-8b4f-5bc61fd85a7d,Gestion de projet,Méthodes & métier,Indispensable
 91dc2861-cc2f-4dce-9647-3b4df7340865,Spark,Data engineering,Indispensable
-91dc2861-cc2f-4dce-9647-3b4df7340865,SQL,Langages,Indispensable
 91dc2861-cc2f-4dce-9647-3b4df7340865,Anglais,Méthodes & métier,Indispensable
-91ff30e6-ab1e-46ba-84df-14a52f974afb,Excel,BI & visualisation,Indispensable
-91ff30e6-ab1e-46ba-84df-14a52f974afb,Python,Langages,Indispensable
-91ff30e6-ab1e-46ba-84df-14a52f974afb,Power BI,BI & visualisation,Indispensable
+91dc2861-cc2f-4dce-9647-3b4df7340865,Statistiques,Data science / IA,Indispensable
+91dc2861-cc2f-4dce-9647-3b4df7340865,SQL,Langages,Indispensable
+91dc2861-cc2f-4dce-9647-3b4df7340865,Gestion de projet,Méthodes & métier,Indispensable
+91dc2861-cc2f-4dce-9647-3b4df7340865,Python,Langages,Indispensable
+91dc2861-cc2f-4dce-9647-3b4df7340865,R,Langages,Indispensable
 91ff30e6-ab1e-46ba-84df-14a52f974afb,Anglais,Méthodes & métier,Indispensable
+91ff30e6-ab1e-46ba-84df-14a52f974afb,Power BI,BI & visualisation,Indispensable
 91ff30e6-ab1e-46ba-84df-14a52f974afb,IA / LLM,Data science / IA,Indispensable
-934c83a5-5e96-4786-afbd-d4cc62441143,Excel,BI & visualisation,Indispensable
-934c83a5-5e96-4786-afbd-d4cc62441143,Gestion de projet,Méthodes & métier,Indispensable
+91ff30e6-ab1e-46ba-84df-14a52f974afb,Python,Langages,Indispensable
+91ff30e6-ab1e-46ba-84df-14a52f974afb,Excel,BI & visualisation,Indispensable
 934c83a5-5e96-4786-afbd-d4cc62441143,Data Governance,Gouvernance & qualité,Indispensable
-934c83a5-5e96-4786-afbd-d4cc62441143,Qlik,BI & visualisation,Indispensable
+934c83a5-5e96-4786-afbd-d4cc62441143,Gestion de projet,Méthodes & métier,Indispensable
+934c83a5-5e96-4786-afbd-d4cc62441143,Excel,BI & visualisation,Indispensable
 934c83a5-5e96-4786-afbd-d4cc62441143,Data Quality,Gouvernance & qualité,Indispensable
-93ddfbed-024c-43fa-ad83-22661844ebbc,Recueil de besoins,Méthodes & métier,Indispensable
-93ddfbed-024c-43fa-ad83-22661844ebbc,Agile / Scrum,Méthodes & métier,Indispensable
+934c83a5-5e96-4786-afbd-d4cc62441143,Qlik,BI & visualisation,Indispensable
 93ddfbed-024c-43fa-ad83-22661844ebbc,Azure,Cloud,Indispensable
 93ddfbed-024c-43fa-ad83-22661844ebbc,Power BI,BI & visualisation,Indispensable
+93ddfbed-024c-43fa-ad83-22661844ebbc,Agile / Scrum,Méthodes & métier,Indispensable
 93ddfbed-024c-43fa-ad83-22661844ebbc,SQL,Langages,Indispensable
 93ddfbed-024c-43fa-ad83-22661844ebbc,AWS,Cloud,Indispensable
 93ddfbed-024c-43fa-ad83-22661844ebbc,Anglais,Méthodes & métier,Indispensable
 93ddfbed-024c-43fa-ad83-22661844ebbc,Recette / Tests,Méthodes & métier,Souhaité
-94f9cff6-c67d-4ea7-9564-bebe73b0d282,SQL,Langages,Indispensable
-94f9cff6-c67d-4ea7-9564-bebe73b0d282,Agile / Scrum,Méthodes & métier,Indispensable
+93ddfbed-024c-43fa-ad83-22661844ebbc,Recueil de besoins,Méthodes & métier,Indispensable
 94f9cff6-c67d-4ea7-9564-bebe73b0d282,Anglais,Méthodes & métier,Indispensable
+94f9cff6-c67d-4ea7-9564-bebe73b0d282,Agile / Scrum,Méthodes & métier,Indispensable
+94f9cff6-c67d-4ea7-9564-bebe73b0d282,SQL,Langages,Indispensable
 95366594-0e89-41e7-b66f-372ed87994c0,Spécifications fonctionnelles,Méthodes & métier,Indispensable
-95366594-0e89-41e7-b66f-372ed87994c0,Agile / Scrum,Méthodes & métier,Indispensable
 95366594-0e89-41e7-b66f-372ed87994c0,Anglais,Méthodes & métier,Indispensable
-982cb683-6d38-49b5-87c4-09d0b256fe51,Recueil de besoins,Méthodes & métier,Indispensable
-982cb683-6d38-49b5-87c4-09d0b256fe51,Python,Langages,Indispensable
+95366594-0e89-41e7-b66f-372ed87994c0,Agile / Scrum,Méthodes & métier,Indispensable
+982cb683-6d38-49b5-87c4-09d0b256fe51,SQL,Langages,Indispensable
 982cb683-6d38-49b5-87c4-09d0b256fe51,Gestion de projet,Méthodes & métier,Indispensable
 982cb683-6d38-49b5-87c4-09d0b256fe51,Modélisation de données,Data engineering,Indispensable
-982cb683-6d38-49b5-87c4-09d0b256fe51,Dataiku,Data engineering,Souhaité
+982cb683-6d38-49b5-87c4-09d0b256fe51,Python,Langages,Indispensable
 982cb683-6d38-49b5-87c4-09d0b256fe51,Recette / Tests,Méthodes & métier,Indispensable
+982cb683-6d38-49b5-87c4-09d0b256fe51,Dataiku,Data engineering,Souhaité
 982cb683-6d38-49b5-87c4-09d0b256fe51,Spark,Data engineering,Souhaité
-982cb683-6d38-49b5-87c4-09d0b256fe51,SQL,Langages,Indispensable
-982cb683-6d38-49b5-87c4-09d0b256fe51,Qlik,BI & visualisation,Souhaité
+982cb683-6d38-49b5-87c4-09d0b256fe51,Recueil de besoins,Méthodes & métier,Indispensable
 982cb683-6d38-49b5-87c4-09d0b256fe51,SAS,Langages,Indispensable
-9904b158-e6de-400d-b9b8-542e329dd2c7,Excel,BI & visualisation,Indispensable
-9904b158-e6de-400d-b9b8-542e329dd2c7,Statistiques,Data science / IA,Indispensable
-9904b158-e6de-400d-b9b8-542e329dd2c7,Python,Langages,Indispensable
+982cb683-6d38-49b5-87c4-09d0b256fe51,Qlik,BI & visualisation,Souhaité
 9904b158-e6de-400d-b9b8-542e329dd2c7,DAX,BI & visualisation,Indispensable
-9904b158-e6de-400d-b9b8-542e329dd2c7,SQL,Langages,Indispensable
-9904b158-e6de-400d-b9b8-542e329dd2c7,Power Query,BI & visualisation,Souhaité
 9904b158-e6de-400d-b9b8-542e329dd2c7,SAP,Méthodes & métier,Indispensable
+9904b158-e6de-400d-b9b8-542e329dd2c7,Statistiques,Data science / IA,Indispensable
+9904b158-e6de-400d-b9b8-542e329dd2c7,IA / LLM,Data science / IA,Souhaité
+9904b158-e6de-400d-b9b8-542e329dd2c7,SQL,Langages,Indispensable
+9904b158-e6de-400d-b9b8-542e329dd2c7,Tableau,BI & visualisation,Indispensable
+9904b158-e6de-400d-b9b8-542e329dd2c7,Python,Langages,Indispensable
 9904b158-e6de-400d-b9b8-542e329dd2c7,VBA,BI & visualisation,Indispensable
 9904b158-e6de-400d-b9b8-542e329dd2c7,Power BI,BI & visualisation,Indispensable
-9904b158-e6de-400d-b9b8-542e329dd2c7,Tableau,BI & visualisation,Indispensable
-9904b158-e6de-400d-b9b8-542e329dd2c7,IA / LLM,Data science / IA,Souhaité
-996cc068-c439-4fca-93b3-4f99a4f011da,Confluence,Méthodes & métier,Indispensable
-996cc068-c439-4fca-93b3-4f99a4f011da,Agile / Scrum,Méthodes & métier,Indispensable
+9904b158-e6de-400d-b9b8-542e329dd2c7,Power Query,BI & visualisation,Souhaité
+9904b158-e6de-400d-b9b8-542e329dd2c7,Excel,BI & visualisation,Indispensable
 996cc068-c439-4fca-93b3-4f99a4f011da,Jira,Méthodes & métier,Indispensable
+996cc068-c439-4fca-93b3-4f99a4f011da,Confluence,Méthodes & métier,Indispensable
 996cc068-c439-4fca-93b3-4f99a4f011da,IA / LLM,Data science / IA,Indispensable
-9a2b7c0f-5603-4cbc-945f-ac09d37498aa,SQL,Langages,Indispensable
+996cc068-c439-4fca-93b3-4f99a4f011da,Agile / Scrum,Méthodes & métier,Indispensable
 9a2b7c0f-5603-4cbc-945f-ac09d37498aa,Gestion de projet,Méthodes & métier,Indispensable
 9a2b7c0f-5603-4cbc-945f-ac09d37498aa,Anglais,Méthodes & métier,Indispensable
 9a2b7c0f-5603-4cbc-945f-ac09d37498aa,IA / LLM,Data science / IA,Indispensable
+9a2b7c0f-5603-4cbc-945f-ac09d37498aa,SQL,Langages,Indispensable
 9c49ff51-ba29-45c5-a76b-7713bff1eff9,Statistiques,Data science / IA,Indispensable
-9c49ff51-ba29-45c5-a76b-7713bff1eff9,Python,Langages,Indispensable
-9c49ff51-ba29-45c5-a76b-7713bff1eff9,Agile / Scrum,Méthodes & métier,Indispensable
-9c49ff51-ba29-45c5-a76b-7713bff1eff9,ETL,Data engineering,Indispensable
-9c49ff51-ba29-45c5-a76b-7713bff1eff9,Anglais,Méthodes & métier,Indispensable
-9c49ff51-ba29-45c5-a76b-7713bff1eff9,Modélisation de données,Data engineering,Indispensable
-9c49ff51-ba29-45c5-a76b-7713bff1eff9,Data Quality,Gouvernance & qualité,Indispensable
-9c49ff51-ba29-45c5-a76b-7713bff1eff9,R,Langages,Souhaité
+9c49ff51-ba29-45c5-a76b-7713bff1eff9,Data Governance,Gouvernance & qualité,Indispensable
 9c49ff51-ba29-45c5-a76b-7713bff1eff9,SQL,Langages,Indispensable
 9c49ff51-ba29-45c5-a76b-7713bff1eff9,MDM,Gouvernance & qualité,Indispensable
-9c49ff51-ba29-45c5-a76b-7713bff1eff9,Data Governance,Gouvernance & qualité,Indispensable
+9c49ff51-ba29-45c5-a76b-7713bff1eff9,Agile / Scrum,Méthodes & métier,Indispensable
+9c49ff51-ba29-45c5-a76b-7713bff1eff9,Python,Langages,Indispensable
+9c49ff51-ba29-45c5-a76b-7713bff1eff9,Modélisation de données,Data engineering,Indispensable
+9c49ff51-ba29-45c5-a76b-7713bff1eff9,R,Langages,Souhaité
+9c49ff51-ba29-45c5-a76b-7713bff1eff9,ETL,Data engineering,Indispensable
+9c49ff51-ba29-45c5-a76b-7713bff1eff9,Anglais,Méthodes & métier,Indispensable
+9c49ff51-ba29-45c5-a76b-7713bff1eff9,Data Quality,Gouvernance & qualité,Indispensable
+9d470f43-d26d-40da-b561-6e697b8f9616,Git,Méthodes & métier,Indispensable
+9d470f43-d26d-40da-b561-6e697b8f9616,SQL,Langages,Indispensable
+9d470f43-d26d-40da-b561-6e697b8f9616,Data Warehouse,Data engineering,Indispensable
 9d470f43-d26d-40da-b561-6e697b8f9616,Python,Langages,Indispensable
+9d470f43-d26d-40da-b561-6e697b8f9616,Talend,Data engineering,Indispensable
+9d470f43-d26d-40da-b561-6e697b8f9616,Snowflake,Bases de données,Indispensable
+9d470f43-d26d-40da-b561-6e697b8f9616,Salesforce,Méthodes & métier,Indispensable
+9d470f43-d26d-40da-b561-6e697b8f9616,Power BI,BI & visualisation,Indispensable
+9d470f43-d26d-40da-b561-6e697b8f9616,dbt,Data engineering,Indispensable
 9d470f43-d26d-40da-b561-6e697b8f9616,ETL,Data engineering,Indispensable
 9d470f43-d26d-40da-b561-6e697b8f9616,ERP,Méthodes & métier,Souhaité
-9d470f43-d26d-40da-b561-6e697b8f9616,Data Warehouse,Data engineering,Indispensable
-9d470f43-d26d-40da-b561-6e697b8f9616,Talend,Data engineering,Indispensable
-9d470f43-d26d-40da-b561-6e697b8f9616,Salesforce,Méthodes & métier,Indispensable
-9d470f43-d26d-40da-b561-6e697b8f9616,dbt,Data engineering,Indispensable
-9d470f43-d26d-40da-b561-6e697b8f9616,Snowflake,Bases de données,Indispensable
-9d470f43-d26d-40da-b561-6e697b8f9616,Power BI,BI & visualisation,Indispensable
-9d470f43-d26d-40da-b561-6e697b8f9616,SQL,Langages,Indispensable
-9d470f43-d26d-40da-b561-6e697b8f9616,Git,Méthodes & métier,Indispensable
+9e2fb948-d36a-419e-8f55-ccd33e3ffcab,Data Governance,Gouvernance & qualité,Indispensable
 9e2fb948-d36a-419e-8f55-ccd33e3ffcab,Agile / Scrum,Méthodes & métier,Indispensable
-9e2fb948-d36a-419e-8f55-ccd33e3ffcab,Modélisation de données,Data engineering,Indispensable
 9e2fb948-d36a-419e-8f55-ccd33e3ffcab,Data Warehouse,Data engineering,Indispensable
+9e2fb948-d36a-419e-8f55-ccd33e3ffcab,Modélisation de données,Data engineering,Indispensable
 9e2fb948-d36a-419e-8f55-ccd33e3ffcab,Talend,Data engineering,Indispensable
-9e2fb948-d36a-419e-8f55-ccd33e3ffcab,Data Quality,Gouvernance & qualité,Indispensable
 9e2fb948-d36a-419e-8f55-ccd33e3ffcab,Informatica,Data engineering,Indispensable
 9e2fb948-d36a-419e-8f55-ccd33e3ffcab,Anglais,Méthodes & métier,Indispensable
-9e2fb948-d36a-419e-8f55-ccd33e3ffcab,Data Governance,Gouvernance & qualité,Indispensable
+9e2fb948-d36a-419e-8f55-ccd33e3ffcab,Data Quality,Gouvernance & qualité,Indispensable
 9e6da6db-94e2-4993-bc3b-c38ada89c7a0,Agile / Scrum,Méthodes & métier,Indispensable
 9e6da6db-94e2-4993-bc3b-c38ada89c7a0,Gestion de projet,Méthodes & métier,Indispensable
-9f98aa46-28c3-418e-b317-25315e843205,Python,Langages,Indispensable
-9f98aa46-28c3-418e-b317-25315e843205,ETL,Data engineering,Indispensable
-9f98aa46-28c3-418e-b317-25315e843205,Modélisation de données,Data engineering,Indispensable
 9f98aa46-28c3-418e-b317-25315e843205,Machine Learning,Data science / IA,Indispensable
-9f98aa46-28c3-418e-b317-25315e843205,Data Quality,Gouvernance & qualité,Indispensable
-9f98aa46-28c3-418e-b317-25315e843205,Spark,Data engineering,Indispensable
-9f98aa46-28c3-418e-b317-25315e843205,Tableau,BI & visualisation,Indispensable
-9f98aa46-28c3-418e-b317-25315e843205,Power BI,BI & visualisation,Indispensable
-9f98aa46-28c3-418e-b317-25315e843205,SQL,Langages,Indispensable
-9f98aa46-28c3-418e-b317-25315e843205,Qlik,BI & visualisation,Indispensable
 9f98aa46-28c3-418e-b317-25315e843205,IA / LLM,Data science / IA,Indispensable
+9f98aa46-28c3-418e-b317-25315e843205,SQL,Langages,Indispensable
+9f98aa46-28c3-418e-b317-25315e843205,Tableau,BI & visualisation,Indispensable
+9f98aa46-28c3-418e-b317-25315e843205,Python,Langages,Indispensable
+9f98aa46-28c3-418e-b317-25315e843205,Modélisation de données,Data engineering,Indispensable
+9f98aa46-28c3-418e-b317-25315e843205,Spark,Data engineering,Indispensable
+9f98aa46-28c3-418e-b317-25315e843205,Power BI,BI & visualisation,Indispensable
+9f98aa46-28c3-418e-b317-25315e843205,ETL,Data engineering,Indispensable
+9f98aa46-28c3-418e-b317-25315e843205,Data Quality,Gouvernance & qualité,Indispensable
+9f98aa46-28c3-418e-b317-25315e843205,Qlik,BI & visualisation,Indispensable
 a0ba6f24-4b4b-4eaa-890a-b5257234681e,Data Quality,Gouvernance & qualité,Indispensable
-a4abbdce-b2d8-4afa-9e97-d7fdbe57cd73,Statistiques,Data science / IA,Indispensable
-a4abbdce-b2d8-4afa-9e97-d7fdbe57cd73,Python,Langages,Indispensable
 a4abbdce-b2d8-4afa-9e97-d7fdbe57cd73,Machine Learning,Data science / IA,Indispensable
-a4abbdce-b2d8-4afa-9e97-d7fdbe57cd73,Data Quality,Gouvernance & qualité,Indispensable
-a4abbdce-b2d8-4afa-9e97-d7fdbe57cd73,Azure,Cloud,Indispensable
+a4abbdce-b2d8-4afa-9e97-d7fdbe57cd73,Statistiques,Data science / IA,Indispensable
+a4abbdce-b2d8-4afa-9e97-d7fdbe57cd73,SQL,Langages,Indispensable
+a4abbdce-b2d8-4afa-9e97-d7fdbe57cd73,Python,Langages,Indispensable
 a4abbdce-b2d8-4afa-9e97-d7fdbe57cd73,MongoDB / NoSQL,Bases de données,Souhaité
 a4abbdce-b2d8-4afa-9e97-d7fdbe57cd73,Power BI,BI & visualisation,Indispensable
-a4abbdce-b2d8-4afa-9e97-d7fdbe57cd73,SQL,Langages,Indispensable
+a4abbdce-b2d8-4afa-9e97-d7fdbe57cd73,Azure,Cloud,Indispensable
 a4abbdce-b2d8-4afa-9e97-d7fdbe57cd73,Anglais,Méthodes & métier,Indispensable
-a4d5db4f-b9ee-428c-9b11-cc890458f8db,Confluence,Méthodes & métier,Indispensable
-a4d5db4f-b9ee-428c-9b11-cc890458f8db,Agile / Scrum,Méthodes & métier,Indispensable
-a4d5db4f-b9ee-428c-9b11-cc890458f8db,IA / LLM,Data science / IA,Indispensable
+a4abbdce-b2d8-4afa-9e97-d7fdbe57cd73,Data Quality,Gouvernance & qualité,Indispensable
 a4d5db4f-b9ee-428c-9b11-cc890458f8db,Jira,Méthodes & métier,Indispensable
+a4d5db4f-b9ee-428c-9b11-cc890458f8db,Confluence,Méthodes & métier,Indispensable
+a4d5db4f-b9ee-428c-9b11-cc890458f8db,IA / LLM,Data science / IA,Indispensable
+a4d5db4f-b9ee-428c-9b11-cc890458f8db,Agile / Scrum,Méthodes & métier,Indispensable
 a4d5db4f-b9ee-428c-9b11-cc890458f8db,Recette / Tests,Méthodes & métier,Indispensable
+a5df1b2b-7690-40f3-96fe-4e5fd84658c2,Jira,Méthodes & métier,Indispensable
+a5df1b2b-7690-40f3-96fe-4e5fd84658c2,Git,Méthodes & métier,Indispensable
 a5df1b2b-7690-40f3-96fe-4e5fd84658c2,Confluence,Méthodes & métier,Indispensable
+a5df1b2b-7690-40f3-96fe-4e5fd84658c2,IA / LLM,Data science / IA,Indispensable
 a5df1b2b-7690-40f3-96fe-4e5fd84658c2,Agile / Scrum,Méthodes & métier,Indispensable
 a5df1b2b-7690-40f3-96fe-4e5fd84658c2,Gestion de projet,Méthodes & métier,Indispensable
-a5df1b2b-7690-40f3-96fe-4e5fd84658c2,Git,Méthodes & métier,Indispensable
 a5df1b2b-7690-40f3-96fe-4e5fd84658c2,Anglais,Méthodes & métier,Indispensable
-a5df1b2b-7690-40f3-96fe-4e5fd84658c2,Jira,Méthodes & métier,Indispensable
-a5df1b2b-7690-40f3-96fe-4e5fd84658c2,IA / LLM,Data science / IA,Indispensable
-a68c35d5-6f1a-4ab5-839c-590a1b0da3ca,Agile / Scrum,Méthodes & métier,Indispensable
-a68c35d5-6f1a-4ab5-839c-590a1b0da3ca,Gestion de projet,Méthodes & métier,Indispensable
-a68c35d5-6f1a-4ab5-839c-590a1b0da3ca,Modélisation de données,Data engineering,Indispensable
 a68c35d5-6f1a-4ab5-839c-590a1b0da3ca,Jira,Méthodes & métier,Indispensable
 a68c35d5-6f1a-4ab5-839c-590a1b0da3ca,Contrôle de gestion,Méthodes & métier,Indispensable
 a68c35d5-6f1a-4ab5-839c-590a1b0da3ca,SAP,Méthodes & métier,Indispensable
+a68c35d5-6f1a-4ab5-839c-590a1b0da3ca,Agile / Scrum,Méthodes & métier,Indispensable
 a68c35d5-6f1a-4ab5-839c-590a1b0da3ca,SQL,Langages,Indispensable
-a68c35d5-6f1a-4ab5-839c-590a1b0da3ca,Qlik,BI & visualisation,Indispensable
 a68c35d5-6f1a-4ab5-839c-590a1b0da3ca,Data Governance,Gouvernance & qualité,Indispensable
-a6a34d1f-1622-4761-8c87-7ed0c305df73,Excel,BI & visualisation,Indispensable
+a68c35d5-6f1a-4ab5-839c-590a1b0da3ca,Gestion de projet,Méthodes & métier,Indispensable
+a68c35d5-6f1a-4ab5-839c-590a1b0da3ca,Modélisation de données,Data engineering,Indispensable
+a68c35d5-6f1a-4ab5-839c-590a1b0da3ca,Qlik,BI & visualisation,Indispensable
 a6a34d1f-1622-4761-8c87-7ed0c305df73,Statistiques,Data science / IA,Indispensable
-a6a34d1f-1622-4761-8c87-7ed0c305df73,Python,Langages,Indispensable
-a6a34d1f-1622-4761-8c87-7ed0c305df73,R,Langages,Souhaité
 a6a34d1f-1622-4761-8c87-7ed0c305df73,SQL,Langages,Indispensable
+a6a34d1f-1622-4761-8c87-7ed0c305df73,R,Langages,Souhaité
+a6a34d1f-1622-4761-8c87-7ed0c305df73,Python,Langages,Indispensable
+a6a34d1f-1622-4761-8c87-7ed0c305df73,Excel,BI & visualisation,Indispensable
 a6a34d1f-1622-4761-8c87-7ed0c305df73,SAS,Langages,Indispensable
 a7f3fbe6-82dc-4b84-93a8-67c2c730d078,Recueil de besoins,Méthodes & métier,Indispensable
 a81067be-c7d4-4a8e-a6f2-7fe7fd5e74e1,Agile / Scrum,Méthodes & métier,Indispensable
 aa1fe3e2-c08c-4dd1-a24b-8bf314ef3eaf,Spécifications fonctionnelles,Méthodes & métier,Indispensable
-aab83b3c-1cd9-4baa-9941-0073b641b7b5,Excel,BI & visualisation,Indispensable
-aab83b3c-1cd9-4baa-9941-0073b641b7b5,IA / LLM,Data science / IA,Indispensable
 aab83b3c-1cd9-4baa-9941-0073b641b7b5,Modélisation de données,Data engineering,Indispensable
+aab83b3c-1cd9-4baa-9941-0073b641b7b5,Excel,BI & visualisation,Indispensable
 aab83b3c-1cd9-4baa-9941-0073b641b7b5,Power BI,BI & visualisation,Indispensable
-ab0880de-3856-445a-bdff-d2bef674ba87,Recueil de besoins,Méthodes & métier,Indispensable
-ab0880de-3856-445a-bdff-d2bef674ba87,Spécifications fonctionnelles,Méthodes & métier,Indispensable
-ab0880de-3856-445a-bdff-d2bef674ba87,Gestion de projet,Méthodes & métier,Indispensable
-ab0880de-3856-445a-bdff-d2bef674ba87,Anglais,Méthodes & métier,Indispensable
+aab83b3c-1cd9-4baa-9941-0073b641b7b5,IA / LLM,Data science / IA,Indispensable
 ab0880de-3856-445a-bdff-d2bef674ba87,Jira,Méthodes & métier,Indispensable
-af554aed-fbda-4968-b9a7-04c4e38820bb,Excel,BI & visualisation,Indispensable
-af554aed-fbda-4968-b9a7-04c4e38820bb,RGPD,Gouvernance & qualité,Indispensable
-af554aed-fbda-4968-b9a7-04c4e38820bb,Anglais,Méthodes & métier,Indispensable
+ab0880de-3856-445a-bdff-d2bef674ba87,Gestion de projet,Méthodes & métier,Indispensable
+ab0880de-3856-445a-bdff-d2bef674ba87,Spécifications fonctionnelles,Méthodes & métier,Indispensable
+ab0880de-3856-445a-bdff-d2bef674ba87,Anglais,Méthodes & métier,Indispensable
+ab0880de-3856-445a-bdff-d2bef674ba87,Recueil de besoins,Méthodes & métier,Indispensable
 af554aed-fbda-4968-b9a7-04c4e38820bb,Data Governance,Gouvernance & qualité,Indispensable
 af554aed-fbda-4968-b9a7-04c4e38820bb,IA / LLM,Data science / IA,Indispensable
+af554aed-fbda-4968-b9a7-04c4e38820bb,RGPD,Gouvernance & qualité,Indispensable
+af554aed-fbda-4968-b9a7-04c4e38820bb,Anglais,Méthodes & métier,Indispensable
+af554aed-fbda-4968-b9a7-04c4e38820bb,Excel,BI & visualisation,Indispensable
+b374c633-a0b4-4a5b-b7c1-3d47d3baaa2d,Python,Langages,Indispensable
+b374c633-a0b4-4a5b-b7c1-3d47d3baaa2d,Anglais,Méthodes & métier,Indispensable
 b374c633-a0b4-4a5b-b7c1-3d47d3baaa2d,SQL,Langages,Indispensable
 b374c633-a0b4-4a5b-b7c1-3d47d3baaa2d,R,Langages,Indispensable
-b374c633-a0b4-4a5b-b7c1-3d47d3baaa2d,Python,Langages,Indispensable
-b374c633-a0b4-4a5b-b7c1-3d47d3baaa2d,MongoDB / NoSQL,Bases de données,Indispensable
 b374c633-a0b4-4a5b-b7c1-3d47d3baaa2d,Tableau,BI & visualisation,Indispensable
-b374c633-a0b4-4a5b-b7c1-3d47d3baaa2d,Anglais,Méthodes & métier,Indispensable
-b3bd6c60-5f32-42ee-94aa-ccc6ebc3b4d8,Recueil de besoins,Méthodes & métier,Indispensable
-b3bd6c60-5f32-42ee-94aa-ccc6ebc3b4d8,Spécifications fonctionnelles,Méthodes & métier,Indispensable
-b3bd6c60-5f32-42ee-94aa-ccc6ebc3b4d8,Agile / Scrum,Méthodes & métier,Indispensable
+b374c633-a0b4-4a5b-b7c1-3d47d3baaa2d,MongoDB / NoSQL,Bases de données,Indispensable
 b3bd6c60-5f32-42ee-94aa-ccc6ebc3b4d8,IA / LLM,Data science / IA,Indispensable
+b3bd6c60-5f32-42ee-94aa-ccc6ebc3b4d8,Agile / Scrum,Méthodes & métier,Indispensable
+b3bd6c60-5f32-42ee-94aa-ccc6ebc3b4d8,Spécifications fonctionnelles,Méthodes & métier,Indispensable
 b3bd6c60-5f32-42ee-94aa-ccc6ebc3b4d8,Recette / Tests,Méthodes & métier,Indispensable
-b3c032e5-a1d3-43fe-b631-d61fa2ea116a,Excel,BI & visualisation,Indispensable
-b3c032e5-a1d3-43fe-b631-d61fa2ea116a,Statistiques,Data science / IA,Indispensable
+b3bd6c60-5f32-42ee-94aa-ccc6ebc3b4d8,Recueil de besoins,Méthodes & métier,Indispensable
+b3c032e5-a1d3-43fe-b631-d61fa2ea116a,Contrôle de gestion,Méthodes & métier,Indispensable
 b3c032e5-a1d3-43fe-b631-d61fa2ea116a,Python,Langages,Indispensable
-b3c032e5-a1d3-43fe-b631-d61fa2ea116a,Tableau,BI & visualisation,Indispensable
+b3c032e5-a1d3-43fe-b631-d61fa2ea116a,Statistiques,Data science / IA,Indispensable
 b3c032e5-a1d3-43fe-b631-d61fa2ea116a,Power BI,BI & visualisation,Indispensable
 b3c032e5-a1d3-43fe-b631-d61fa2ea116a,SQL,Langages,Indispensable
-b3c032e5-a1d3-43fe-b631-d61fa2ea116a,Contrôle de gestion,Méthodes & métier,Indispensable
+b3c032e5-a1d3-43fe-b631-d61fa2ea116a,Tableau,BI & visualisation,Indispensable
+b3c032e5-a1d3-43fe-b631-d61fa2ea116a,Excel,BI & visualisation,Indispensable
+b44e48f6-44a3-49d5-8a3b-6eb30f709650,Jira,Méthodes & métier,Indispensable
 b44e48f6-44a3-49d5-8a3b-6eb30f709650,Confluence,Méthodes & métier,Indispensable
 b44e48f6-44a3-49d5-8a3b-6eb30f709650,Agile / Scrum,Méthodes & métier,Indispensable
-b44e48f6-44a3-49d5-8a3b-6eb30f709650,Jira,Méthodes & métier,Indispensable
-b8ed69e7-e16b-403d-bc09-b52fc2e9421b,Recueil de besoins,Méthodes & métier,Indispensable
-b8ed69e7-e16b-403d-bc09-b52fc2e9421b,Gestion de projet,Méthodes & métier,Indispensable
 b8ed69e7-e16b-403d-bc09-b52fc2e9421b,Azure,Cloud,Indispensable
-b8ed69e7-e16b-403d-bc09-b52fc2e9421b,RGPD,Gouvernance & qualité,Indispensable
-b8ed69e7-e16b-403d-bc09-b52fc2e9421b,ERP,Méthodes & métier,Indispensable
 b8ed69e7-e16b-403d-bc09-b52fc2e9421b,Data Governance,Gouvernance & qualité,Indispensable
 b8ed69e7-e16b-403d-bc09-b52fc2e9421b,IA / LLM,Data science / IA,Indispensable
-bf48f15c-4d9a-4900-8767-bc5c680e847d,Salesforce,Méthodes & métier,Indispensable
+b8ed69e7-e16b-403d-bc09-b52fc2e9421b,Gestion de projet,Méthodes & métier,Indispensable
+b8ed69e7-e16b-403d-bc09-b52fc2e9421b,RGPD,Gouvernance & qualité,Indispensable
+b8ed69e7-e16b-403d-bc09-b52fc2e9421b,ERP,Méthodes & métier,Indispensable
+b8ed69e7-e16b-403d-bc09-b52fc2e9421b,Recueil de besoins,Méthodes & métier,Indispensable
 bf48f15c-4d9a-4900-8767-bc5c680e847d,CRM,Méthodes & métier,Indispensable
+bf48f15c-4d9a-4900-8767-bc5c680e847d,Salesforce,Méthodes & métier,Indispensable
 c2140f1e-1dad-4c27-8ea2-6247aced4707,SAP,Méthodes & métier,Indispensable
 c2140f1e-1dad-4c27-8ea2-6247aced4707,MDM,Gouvernance & qualité,Indispensable
+c4b07f87-60fa-4044-8aef-83be64c70e27,Excel,BI & visualisation,Indispensable
+c4b07f87-60fa-4044-8aef-83be64c70e27,ERP,Méthodes & métier,Indispensable
 c4b07f87-60fa-4044-8aef-83be64c70e27,Power Query,BI & visualisation,Indispensable
 c4b07f87-60fa-4044-8aef-83be64c70e27,SQL,Langages,Indispensable
-c4b07f87-60fa-4044-8aef-83be64c70e27,ERP,Méthodes & métier,Indispensable
-c4b07f87-60fa-4044-8aef-83be64c70e27,Excel,BI & visualisation,Indispensable
+c4ef659e-7774-4edb-9c54-8f6a1bcffef0,Jira,Méthodes & métier,Indispensable
 c4ef659e-7774-4edb-9c54-8f6a1bcffef0,Confluence,Méthodes & métier,Indispensable
 c4ef659e-7774-4edb-9c54-8f6a1bcffef0,Agile / Scrum,Méthodes & métier,Indispensable
-c4ef659e-7774-4edb-9c54-8f6a1bcffef0,Jira,Méthodes & métier,Indispensable
-c8a01315-0b9b-4673-ad63-cad0b6315510,BigQuery,Bases de données,Indispensable
-c8a01315-0b9b-4673-ad63-cad0b6315510,Python,Langages,Indispensable
-c8a01315-0b9b-4673-ad63-cad0b6315510,Modélisation de données,Data engineering,Indispensable
 c8a01315-0b9b-4673-ad63-cad0b6315510,GCP,Cloud,Indispensable
-c8a01315-0b9b-4673-ad63-cad0b6315510,Power BI,BI & visualisation,Indispensable
+c8a01315-0b9b-4673-ad63-cad0b6315510,BigQuery,Bases de données,Indispensable
+c8a01315-0b9b-4673-ad63-cad0b6315510,IA / LLM,Data science / IA,Indispensable
 c8a01315-0b9b-4673-ad63-cad0b6315510,SQL,Langages,Indispensable
 c8a01315-0b9b-4673-ad63-cad0b6315510,Data Governance,Gouvernance & qualité,Indispensable
-c8a01315-0b9b-4673-ad63-cad0b6315510,IA / LLM,Data science / IA,Indispensable
-c8caf9a7-9601-4bbc-a49b-b5029bdf2dad,SQL,Langages,Indispensable
-c8caf9a7-9601-4bbc-a49b-b5029bdf2dad,Alteryx,Data engineering,Indispensable
-c8caf9a7-9601-4bbc-a49b-b5029bdf2dad,Power BI,BI & visualisation,Indispensable
-c8caf9a7-9601-4bbc-a49b-b5029bdf2dad,Oracle,Bases de données,Indispensable
+c8a01315-0b9b-4673-ad63-cad0b6315510,Python,Langages,Indispensable
+c8a01315-0b9b-4673-ad63-cad0b6315510,Modélisation de données,Data engineering,Indispensable
+c8a01315-0b9b-4673-ad63-cad0b6315510,Power BI,BI & visualisation,Indispensable
 c8caf9a7-9601-4bbc-a49b-b5029bdf2dad,Contrôle de gestion,Méthodes & métier,Indispensable
+c8caf9a7-9601-4bbc-a49b-b5029bdf2dad,Power BI,BI & visualisation,Indispensable
+c8caf9a7-9601-4bbc-a49b-b5029bdf2dad,SQL,Langages,Indispensable
+c8caf9a7-9601-4bbc-a49b-b5029bdf2dad,Oracle,Bases de données,Indispensable
+c8caf9a7-9601-4bbc-a49b-b5029bdf2dad,Alteryx,Data engineering,Indispensable
 cdff2753-6d5b-4612-a391-d125e8b1136b,PostgreSQL,Bases de données,Indispensable
+cdff2753-6d5b-4612-a391-d125e8b1136b,SQL Server,Bases de données,Indispensable
+cdff2753-6d5b-4612-a391-d125e8b1136b,MySQL,Bases de données,Indispensable
 cdff2753-6d5b-4612-a391-d125e8b1136b,SQL,Langages,Indispensable
 cdff2753-6d5b-4612-a391-d125e8b1136b,Shell / Bash,Langages,Indispensable
-cdff2753-6d5b-4612-a391-d125e8b1136b,SQL Server,Bases de données,Indispensable
 cdff2753-6d5b-4612-a391-d125e8b1136b,MongoDB / NoSQL,Bases de données,Indispensable
 cdff2753-6d5b-4612-a391-d125e8b1136b,Oracle,Bases de données,Indispensable
-cdff2753-6d5b-4612-a391-d125e8b1136b,MySQL,Bases de données,Indispensable
+ce1264ca-be7d-484f-88ce-47685f3cabce,Snowflake,Bases de données,Indispensable
+ce1264ca-be7d-484f-88ce-47685f3cabce,Data Governance,Gouvernance & qualité,Indispensable
 ce1264ca-be7d-484f-88ce-47685f3cabce,dbt,Data engineering,Indispensable
+ce1264ca-be7d-484f-88ce-47685f3cabce,Airflow,Data engineering,Indispensable
 ce1264ca-be7d-484f-88ce-47685f3cabce,Python,Langages,Indispensable
 ce1264ca-be7d-484f-88ce-47685f3cabce,ETL,Data engineering,Indispensable
-ce1264ca-be7d-484f-88ce-47685f3cabce,Snowflake,Bases de données,Indispensable
 ce1264ca-be7d-484f-88ce-47685f3cabce,SQL,Langages,Indispensable
-ce1264ca-be7d-484f-88ce-47685f3cabce,Airflow,Data engineering,Indispensable
-ce1264ca-be7d-484f-88ce-47685f3cabce,Data Governance,Gouvernance & qualité,Indispensable
-d1bfc092-8c1c-4690-b768-ca6b5bb1a6ad,Recueil de besoins,Méthodes & métier,Indispensable
-d1bfc092-8c1c-4690-b768-ca6b5bb1a6ad,Spécifications fonctionnelles,Méthodes & métier,Indispensable
+d1bfc092-8c1c-4690-b768-ca6b5bb1a6ad,Jira,Méthodes & métier,Indispensable
+d1bfc092-8c1c-4690-b768-ca6b5bb1a6ad,Confluence,Méthodes & métier,Indispensable
 d1bfc092-8c1c-4690-b768-ca6b5bb1a6ad,Agile / Scrum,Méthodes & métier,Indispensable
 d1bfc092-8c1c-4690-b768-ca6b5bb1a6ad,Gestion de projet,Méthodes & métier,Indispensable
-d1bfc092-8c1c-4690-b768-ca6b5bb1a6ad,Confluence,Méthodes & métier,Indispensable
+d1bfc092-8c1c-4690-b768-ca6b5bb1a6ad,Spécifications fonctionnelles,Méthodes & métier,Indispensable
 d1bfc092-8c1c-4690-b768-ca6b5bb1a6ad,Anglais,Méthodes & métier,Indispensable
-d1bfc092-8c1c-4690-b768-ca6b5bb1a6ad,Jira,Méthodes & métier,Indispensable
+d1bfc092-8c1c-4690-b768-ca6b5bb1a6ad,Recueil de besoins,Méthodes & métier,Indispensable
 d3e8780f-1c7d-4db3-a073-c0ccb47f8252,Recette / Tests,Méthodes & métier,Indispensable
 d3e8780f-1c7d-4db3-a073-c0ccb47f8252,Power BI,BI & visualisation,Indispensable
 d53af989-adff-47da-95c2-2cf54916f8ef,IA / LLM,Data science / IA,Indispensable
 d7a31e01-6e22-4373-849c-f82d87fe1226,Spécifications fonctionnelles,Méthodes & métier,Indispensable
 d7a31e01-6e22-4373-849c-f82d87fe1226,Anglais,Méthodes & métier,Indispensable
-d7beb1fb-859e-4241-a43b-85cadcee33bb,Statistiques,Data science / IA,Indispensable
-d7beb1fb-859e-4241-a43b-85cadcee33bb,Python,Langages,Indispensable
 d7beb1fb-859e-4241-a43b-85cadcee33bb,Modélisation de données,Data engineering,Indispensable
+d7beb1fb-859e-4241-a43b-85cadcee33bb,Statistiques,Data science / IA,Indispensable
+d7beb1fb-859e-4241-a43b-85cadcee33bb,Power BI,BI & visualisation,Indispensable
 d7beb1fb-859e-4241-a43b-85cadcee33bb,SQL,Langages,Indispensable
 d7beb1fb-859e-4241-a43b-85cadcee33bb,Anglais,Méthodes & métier,Indispensable
-d7beb1fb-859e-4241-a43b-85cadcee33bb,Power BI,BI & visualisation,Indispensable
+d7beb1fb-859e-4241-a43b-85cadcee33bb,Python,Langages,Indispensable
 d7beb1fb-859e-4241-a43b-85cadcee33bb,Databricks,Bases de données,Indispensable
 d826c499-1179-4f5b-8c57-ea9f0c03356a,Spécifications fonctionnelles,Méthodes & métier,Indispensable
 d826c499-1179-4f5b-8c57-ea9f0c03356a,SAP,Méthodes & métier,Indispensable
 d826c499-1179-4f5b-8c57-ea9f0c03356a,Data Quality,Gouvernance & qualité,Indispensable
-d8d2129b-68dd-41af-b7af-88564076a767,Spécifications fonctionnelles,Méthodes & métier,Indispensable
-d8d2129b-68dd-41af-b7af-88564076a767,.NET / C#,Langages,Indispensable
 d8d2129b-68dd-41af-b7af-88564076a767,Gestion de projet,Méthodes & métier,Indispensable
-d8d2129b-68dd-41af-b7af-88564076a767,SQL,Langages,Indispensable
+d8d2129b-68dd-41af-b7af-88564076a767,Spécifications fonctionnelles,Méthodes & métier,Indispensable
 d8d2129b-68dd-41af-b7af-88564076a767,Recette / Tests,Méthodes & métier,Indispensable
-db588fa5-ccc8-40f5-a808-eb554d6997cc,Excel,BI & visualisation,Indispensable
+d8d2129b-68dd-41af-b7af-88564076a767,SQL,Langages,Indispensable
+d8d2129b-68dd-41af-b7af-88564076a767,.NET / C#,Langages,Indispensable
+db588fa5-ccc8-40f5-a808-eb554d6997cc,Jira,Méthodes & métier,Indispensable
+db588fa5-ccc8-40f5-a808-eb554d6997cc,SQL,Langages,Indispensable
 db588fa5-ccc8-40f5-a808-eb554d6997cc,Gestion de projet,Méthodes & métier,Indispensable
 db588fa5-ccc8-40f5-a808-eb554d6997cc,ERP,Méthodes & métier,Indispensable
-db588fa5-ccc8-40f5-a808-eb554d6997cc,Data Quality,Gouvernance & qualité,Indispensable
 db588fa5-ccc8-40f5-a808-eb554d6997cc,Power BI,BI & visualisation,Indispensable
-db588fa5-ccc8-40f5-a808-eb554d6997cc,SQL,Langages,Indispensable
-db588fa5-ccc8-40f5-a808-eb554d6997cc,Jira,Méthodes & métier,Indispensable
+db588fa5-ccc8-40f5-a808-eb554d6997cc,Excel,BI & visualisation,Indispensable
+db588fa5-ccc8-40f5-a808-eb554d6997cc,Data Quality,Gouvernance & qualité,Indispensable
 db588fa5-ccc8-40f5-a808-eb554d6997cc,Qlik,BI & visualisation,Indispensable
-dd108233-bca6-47ed-857e-f0adfdaed7be,Excel,BI & visualisation,Indispensable
-dd108233-bca6-47ed-857e-f0adfdaed7be,Anglais,Méthodes & métier,Indispensable
 dd108233-bca6-47ed-857e-f0adfdaed7be,SAP,Méthodes & métier,Indispensable
+dd108233-bca6-47ed-857e-f0adfdaed7be,Anglais,Méthodes & métier,Indispensable
+dd108233-bca6-47ed-857e-f0adfdaed7be,Excel,BI & visualisation,Indispensable
 defd5b9a-a70f-404c-a08b-93f04df0a64d,RGPD,Gouvernance & qualité,Indispensable
 defd5b9a-a70f-404c-a08b-93f04df0a64d,IA / LLM,Data science / IA,Indispensable
-df5ef2cf-f9cd-478b-8f60-f242c200db78,Agile / Scrum,Méthodes & métier,Indispensable
 df5ef2cf-f9cd-478b-8f60-f242c200db78,ETL,Data engineering,Indispensable
-df5ef2cf-f9cd-478b-8f60-f242c200db78,Data Governance,Gouvernance & qualité,Indispensable
 df5ef2cf-f9cd-478b-8f60-f242c200db78,Data Quality,Gouvernance & qualité,Indispensable
-e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,Recueil de besoins,Méthodes & métier,Indispensable
-e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,Spécifications fonctionnelles,Méthodes & métier,Indispensable
+df5ef2cf-f9cd-478b-8f60-f242c200db78,Data Governance,Gouvernance & qualité,Indispensable
+df5ef2cf-f9cd-478b-8f60-f242c200db78,Agile / Scrum,Méthodes & métier,Indispensable
+e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,Jira,Méthodes & métier,Indispensable
 e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,Agile / Scrum,Méthodes & métier,Indispensable
-e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,Python,Langages,Indispensable
-e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,Gestion de projet,Méthodes & métier,Indispensable
+e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,IA / LLM,Data science / IA,Indispensable
 e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,Airflow,Data engineering,Indispensable
+e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,Gestion de projet,Méthodes & métier,Indispensable
+e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,Python,Langages,Indispensable
 e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,Recette / Tests,Méthodes & métier,Indispensable
+e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,Recueil de besoins,Méthodes & métier,Indispensable
 e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,Confluence,Méthodes & métier,Indispensable
 e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,Azure,Cloud,Indispensable
-e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,Jira,Méthodes & métier,Indispensable
-e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,IA / LLM,Data science / IA,Indispensable
-e9a30c35-9257-48f3-bc1a-afdc3fe6e974,ETL,Data engineering,Indispensable
-e9a30c35-9257-48f3-bc1a-afdc3fe6e974,Informatica,Data engineering,Souhaité
-e9a30c35-9257-48f3-bc1a-afdc3fe6e974,Oracle,Bases de données,Indispensable
+e8f753f5-de62-4c2b-a3fb-02c1f4f3d3f2,Spécifications fonctionnelles,Méthodes & métier,Indispensable
 e9a30c35-9257-48f3-bc1a-afdc3fe6e974,SQL,Langages,Indispensable
+e9a30c35-9257-48f3-bc1a-afdc3fe6e974,Oracle,Bases de données,Indispensable
 e9a30c35-9257-48f3-bc1a-afdc3fe6e974,Talend,Data engineering,Souhaité
 e9a30c35-9257-48f3-bc1a-afdc3fe6e974,Semarchy,Data engineering,Indispensable
-eac2fedf-bdcd-4f39-86f8-f6fd7a039fe9,Data Quality,Gouvernance & qualité,Indispensable
-eac2fedf-bdcd-4f39-86f8-f6fd7a039fe9,Agile / Scrum,Méthodes & métier,Indispensable
+e9a30c35-9257-48f3-bc1a-afdc3fe6e974,ETL,Data engineering,Indispensable
+e9a30c35-9257-48f3-bc1a-afdc3fe6e974,Informatica,Data engineering,Souhaité
 eac2fedf-bdcd-4f39-86f8-f6fd7a039fe9,RGPD,Gouvernance & qualité,Indispensable
+eac2fedf-bdcd-4f39-86f8-f6fd7a039fe9,Data Quality,Gouvernance & qualité,Indispensable
 eac2fedf-bdcd-4f39-86f8-f6fd7a039fe9,IA / LLM,Data science / IA,Indispensable
-ec7c141d-4e0d-4e7f-bf99-655b792815eb,Excel,BI & visualisation,Indispensable
+eac2fedf-bdcd-4f39-86f8-f6fd7a039fe9,Agile / Scrum,Méthodes & métier,Indispensable
+ec7c141d-4e0d-4e7f-bf99-655b792815eb,Machine Learning,Data science / IA,Indispensable
 ec7c141d-4e0d-4e7f-bf99-655b792815eb,Statistiques,Data science / IA,Indispensable
+ec7c141d-4e0d-4e7f-bf99-655b792815eb,IA / LLM,Data science / IA,Indispensable
+ec7c141d-4e0d-4e7f-bf99-655b792815eb,SQL,Langages,Indispensable
 ec7c141d-4e0d-4e7f-bf99-655b792815eb,Python,Langages,Indispensable
 ec7c141d-4e0d-4e7f-bf99-655b792815eb,Recueil de besoins,Méthodes & métier,Indispensable
-ec7c141d-4e0d-4e7f-bf99-655b792815eb,Machine Learning,Data science / IA,Indispensable
-ec7c141d-4e0d-4e7f-bf99-655b792815eb,SQL,Langages,Indispensable
 ec7c141d-4e0d-4e7f-bf99-655b792815eb,Anglais,Méthodes & métier,Indispensable
-ec7c141d-4e0d-4e7f-bf99-655b792815eb,IA / LLM,Data science / IA,Indispensable
-efc88ea4-db19-4b44-a88f-cbde1f9684f5,Recueil de besoins,Méthodes & métier,Indispensable
-efc88ea4-db19-4b44-a88f-cbde1f9684f5,Spécifications fonctionnelles,Méthodes & métier,Indispensable
-efc88ea4-db19-4b44-a88f-cbde1f9684f5,Agile / Scrum,Méthodes & métier,Indispensable
-efc88ea4-db19-4b44-a88f-cbde1f9684f5,Anglais,Méthodes & métier,Indispensable
+ec7c141d-4e0d-4e7f-bf99-655b792815eb,Excel,BI & visualisation,Indispensable
 efc88ea4-db19-4b44-a88f-cbde1f9684f5,IA / LLM,Data science / IA,Indispensable
+efc88ea4-db19-4b44-a88f-cbde1f9684f5,Agile / Scrum,Méthodes & métier,Indispensable
+efc88ea4-db19-4b44-a88f-cbde1f9684f5,Spécifications fonctionnelles,Méthodes & métier,Indispensable
+efc88ea4-db19-4b44-a88f-cbde1f9684f5,Anglais,Méthodes & métier,Indispensable
+efc88ea4-db19-4b44-a88f-cbde1f9684f5,Recueil de besoins,Méthodes & métier,Indispensable
+f22b55b0-a186-4b1b-ac92-1cadaf37a77a,CRM,Méthodes & métier,Indispensable
 f22b55b0-a186-4b1b-ac92-1cadaf37a77a,Statistiques,Data science / IA,Indispensable
+f22b55b0-a186-4b1b-ac92-1cadaf37a77a,Power BI,BI & visualisation,Indispensable
+f22b55b0-a186-4b1b-ac92-1cadaf37a77a,Gestion de projet,Méthodes & métier,Indispensable
 f22b55b0-a186-4b1b-ac92-1cadaf37a77a,Spécifications fonctionnelles,Méthodes & métier,Indispensable
 f22b55b0-a186-4b1b-ac92-1cadaf37a77a,Recueil de besoins,Méthodes & métier,Indispensable
-f22b55b0-a186-4b1b-ac92-1cadaf37a77a,Gestion de projet,Méthodes & métier,Indispensable
-f22b55b0-a186-4b1b-ac92-1cadaf37a77a,Power BI,BI & visualisation,Indispensable
-f22b55b0-a186-4b1b-ac92-1cadaf37a77a,CRM,Méthodes & métier,Indispensable
 f43ff4af-ac39-4222-b8b8-cc814222a887,Fabric,Cloud,Souhaité
-f43ff4af-ac39-4222-b8b8-cc814222a887,ETL,Data engineering,Indispensable
-f43ff4af-ac39-4222-b8b8-cc814222a887,GCP,Cloud,Indispensable
-f43ff4af-ac39-4222-b8b8-cc814222a887,AWS,Cloud,Indispensable
 f43ff4af-ac39-4222-b8b8-cc814222a887,DAX,BI & visualisation,Indispensable
-f43ff4af-ac39-4222-b8b8-cc814222a887,dbt,Data engineering,Indispensable
+f43ff4af-ac39-4222-b8b8-cc814222a887,GCP,Cloud,Indispensable
+f43ff4af-ac39-4222-b8b8-cc814222a887,Git,Méthodes & métier,Indispensable
+f43ff4af-ac39-4222-b8b8-cc814222a887,SQL,Langages,Indispensable
 f43ff4af-ac39-4222-b8b8-cc814222a887,Snowflake,Bases de données,Indispensable
 f43ff4af-ac39-4222-b8b8-cc814222a887,Power BI,BI & visualisation,Indispensable
-f43ff4af-ac39-4222-b8b8-cc814222a887,SQL,Langages,Indispensable
-f43ff4af-ac39-4222-b8b8-cc814222a887,Git,Méthodes & métier,Indispensable
+f43ff4af-ac39-4222-b8b8-cc814222a887,AWS,Cloud,Indispensable
+f43ff4af-ac39-4222-b8b8-cc814222a887,dbt,Data engineering,Indispensable
+f43ff4af-ac39-4222-b8b8-cc814222a887,ETL,Data engineering,Indispensable
 f5d4bf4a-82ea-4ed9-b3d0-f46540d168c1,Anglais,Méthodes & métier,Indispensable
 f5d4bf4a-82ea-4ed9-b3d0-f46540d168c1,Data Governance,Gouvernance & qualité,Indispensable
 f5d4bf4a-82ea-4ed9-b3d0-f46540d168c1,IA / LLM,Data science / IA,Indispensable
-f651b4be-8d16-4205-b652-514e6892203c,Python,Langages,Indispensable
 f651b4be-8d16-4205-b652-514e6892203c,GCP,Cloud,Indispensable
-f651b4be-8d16-4205-b652-514e6892203c,AWS,Cloud,Indispensable
-f651b4be-8d16-4205-b652-514e6892203c,Airflow,Data engineering,Indispensable
-f651b4be-8d16-4205-b652-514e6892203c,Data Lake,Data engineering,Indispensable
-f651b4be-8d16-4205-b652-514e6892203c,Azure,Cloud,Indispensable
-f651b4be-8d16-4205-b652-514e6892203c,Spark,Data engineering,Indispensable
 f651b4be-8d16-4205-b652-514e6892203c,IA / LLM,Data science / IA,Indispensable
-fb6291d2-31e2-408b-9b4a-e047653e66f6,Excel,BI & visualisation,Indispensable
-fb6291d2-31e2-408b-9b4a-e047653e66f6,SAP,Méthodes & métier,Indispensable
-fb6291d2-31e2-408b-9b4a-e047653e66f6,Tableau,BI & visualisation,Indispensable
+f651b4be-8d16-4205-b652-514e6892203c,Airflow,Data engineering,Indispensable
+f651b4be-8d16-4205-b652-514e6892203c,Python,Langages,Indispensable
+f651b4be-8d16-4205-b652-514e6892203c,Spark,Data engineering,Indispensable
+f651b4be-8d16-4205-b652-514e6892203c,AWS,Cloud,Indispensable
+f651b4be-8d16-4205-b652-514e6892203c,Azure,Cloud,Indispensable
+f651b4be-8d16-4205-b652-514e6892203c,Data Lake,Data engineering,Indispensable
 fb6291d2-31e2-408b-9b4a-e047653e66f6,CRM,Méthodes & métier,Indispensable
 fb6291d2-31e2-408b-9b4a-e047653e66f6,Contrôle de gestion,Méthodes & métier,Indispensable
+fb6291d2-31e2-408b-9b4a-e047653e66f6,SAP,Méthodes & métier,Indispensable
+fb6291d2-31e2-408b-9b4a-e047653e66f6,Tableau,BI & visualisation,Indispensable
+fb6291d2-31e2-408b-9b4a-e047653e66f6,Excel,BI & visualisation,Indispensable
+fbadba29-d0f1-4485-8f14-9d1a707d3e77,Anglais,Méthodes & métier,Indispensable
 fbadba29-d0f1-4485-8f14-9d1a707d3e77,Agile / Scrum,Méthodes & métier,Indispensable
 fbadba29-d0f1-4485-8f14-9d1a707d3e77,Gestion de projet,Méthodes & métier,Indispensable
-fbadba29-d0f1-4485-8f14-9d1a707d3e77,Anglais,Méthodes & métier,Indispensable
-fd75c106-a31f-4ff2-902e-8b2dafb33e52,Excel,BI & visualisation,Indispensable
 fd75c106-a31f-4ff2-902e-8b2dafb33e52,Anglais,Méthodes & métier,Indispensable
-fe17345e-6c60-4d03-a0bc-525cfa149d4e,Recette / Tests,Méthodes & métier,Indispensable
+fd75c106-a31f-4ff2-902e-8b2dafb33e52,Excel,BI & visualisation,Indispensable
 fe17345e-6c60-4d03-a0bc-525cfa149d4e,Python,Langages,Indispensable
-fe17345e-6c60-4d03-a0bc-525cfa149d4e,Anglais,Méthodes & métier,Indispensable
+fe17345e-6c60-4d03-a0bc-525cfa149d4e,Recette / Tests,Méthodes & métier,Indispensable
 fe17345e-6c60-4d03-a0bc-525cfa149d4e,IA / LLM,Data science / IA,Indispensable
-fe83069b-3989-43df-8a7c-5a88271d7adb,PostgreSQL,Bases de données,Indispensable
-fe83069b-3989-43df-8a7c-5a88271d7adb,Python,Langages,Indispensable
-fe83069b-3989-43df-8a7c-5a88271d7adb,ETL,Data engineering,Indispensable
-fe83069b-3989-43df-8a7c-5a88271d7adb,Oracle,Bases de données,Indispensable
-fe83069b-3989-43df-8a7c-5a88271d7adb,MySQL,Bases de données,Indispensable
-fe83069b-3989-43df-8a7c-5a88271d7adb,Airflow,Data engineering,Indispensable
-fe83069b-3989-43df-8a7c-5a88271d7adb,Hadoop,Data engineering,Souhaité
-fe83069b-3989-43df-8a7c-5a88271d7adb,Spark,Data engineering,Indispensable
+fe17345e-6c60-4d03-a0bc-525cfa149d4e,Anglais,Méthodes & métier,Indispensable
 fe83069b-3989-43df-8a7c-5a88271d7adb,Kafka,Data engineering,Indispensable
-fe83069b-3989-43df-8a7c-5a88271d7adb,SQL Server,Bases de données,Indispensable
-fe83069b-3989-43df-8a7c-5a88271d7adb,Data Lake,Data engineering,Indispensable
-fe83069b-3989-43df-8a7c-5a88271d7adb,RGPD,Gouvernance & qualité,Indispensable
+fe83069b-3989-43df-8a7c-5a88271d7adb,MySQL,Bases de données,Indispensable
 fe83069b-3989-43df-8a7c-5a88271d7adb,SQL,Langages,Indispensable
-fe8d438f-5d34-4861-8aae-fdb7f591c5b0,Excel,BI & visualisation,Indispensable
+fe83069b-3989-43df-8a7c-5a88271d7adb,Oracle,Bases de données,Indispensable
+fe83069b-3989-43df-8a7c-5a88271d7adb,Python,Langages,Indispensable
+fe83069b-3989-43df-8a7c-5a88271d7adb,Spark,Data engineering,Indispensable
+fe83069b-3989-43df-8a7c-5a88271d7adb,Hadoop,Data engineering,Souhaité
+fe83069b-3989-43df-8a7c-5a88271d7adb,PostgreSQL,Bases de données,Indispensable
+fe83069b-3989-43df-8a7c-5a88271d7adb,SQL Server,Bases de données,Indispensable
+fe83069b-3989-43df-8a7c-5a88271d7adb,Airflow,Data engineering,Indispensable
+fe83069b-3989-43df-8a7c-5a88271d7adb,ETL,Data engineering,Indispensable
+fe83069b-3989-43df-8a7c-5a88271d7adb,RGPD,Gouvernance & qualité,Indispensable
+fe83069b-3989-43df-8a7c-5a88271d7adb,Data Lake,Data engineering,Indispensable
 fe8d438f-5d34-4861-8aae-fdb7f591c5b0,Statistiques,Data science / IA,Indispensable
-fe8d438f-5d34-4861-8aae-fdb7f591c5b0,Python,Langages,Indispensable
-fe8d438f-5d34-4861-8aae-fdb7f591c5b0,Data Quality,Gouvernance & qualité,Indispensable
-fe8d438f-5d34-4861-8aae-fdb7f591c5b0,SQL,Langages,Indispensable
-fe8d438f-5d34-4861-8aae-fdb7f591c5b0,RGPD,Gouvernance & qualité,Indispensable
-fe8d438f-5d34-4861-8aae-fdb7f591c5b0,Power BI,BI & visualisation,Indispensable
-fe8d438f-5d34-4861-8aae-fdb7f591c5b0,Tableau,BI & visualisation,Indispensable
 fe8d438f-5d34-4861-8aae-fdb7f591c5b0,Data Governance,Gouvernance & qualité,Indispensable
+fe8d438f-5d34-4861-8aae-fdb7f591c5b0,SQL,Langages,Indispensable
+fe8d438f-5d34-4861-8aae-fdb7f591c5b0,Tableau,BI & visualisation,Indispensable
+fe8d438f-5d34-4861-8aae-fdb7f591c5b0,Python,Langages,Indispensable
+fe8d438f-5d34-4861-8aae-fdb7f591c5b0,Power BI,BI & visualisation,Indispensable
+fe8d438f-5d34-4861-8aae-fdb7f591c5b0,RGPD,Gouvernance & qualité,Indispensable
+fe8d438f-5d34-4861-8aae-fdb7f591c5b0,Excel,BI & visualisation,Indispensable
+fe8d438f-5d34-4861-8aae-fdb7f591c5b0,Data Quality,Gouvernance & qualité,Indispensable

@@ -3,7 +3,7 @@
 > Pipeline Python → modèle en étoile PostgreSQL → dashboard Power BI / Streamlit.
 > Données : 172 offres d'emploi analysées en détail, 745 offres reçues et triées, 203 candidatures suivies, 381 changements de statut — collectées entre le 27 octobre et le 10 novembre 2026 via [JobPilot](https://jobpilot-ashy.vercel.app/), l'outil de suivi de candidatures que j'ai développé.
 
-**Démo interactive :** _lien Streamlit à venir_ · **Rapport Power BI :** `powerbi/`
+**Livrables :** rapport Power BI (`powerbi/`) · dashboard Tableau Public (`tableau/`, _lien à venir_) · version Python Streamlit (`app/`, _lien à venir_). Une seule source de données (`tableau/source_marche_emploi_data.xlsx`), trois outils.
 
 ---
 
@@ -65,6 +65,8 @@ SQL (PostgreSQL / Supabase) : `sql/01_schema.sql` crée le schéma `jobmarket`, 
 
 Power BI : voir `powerbi/README.md` (relations, mesures DAX dans `powerbi/mesures.dax`).
 
+Tableau Public : voir `tableau/README.md` (relations, champs calculés, 5 feuilles + Story) ; source Excel prête dans le même dossier.
+
 ## Limites, à lire avant d'interpréter
 - **Échantillon biaisé par ma recherche** : postes Data / BI / Business Analyst, majoritairement Île-de-France, niveau junior à confirmé. Ce n'est pas le marché français complet, et 15 jours de collecte ne font pas une tendance.
 - Les champs structurés sont extraits par un LLM (Gemini via JobPilot) : les erreurs d'extraction sont partiellement corrigées par le pipeline, pas éliminées.
@@ -72,7 +74,7 @@ Power BI : voir `powerbi/README.md` (relations, mesures DAX dans `powerbi/mesure
 - Le salaire n'est affiché que dans 17 % des offres : les médianes sont indicatives.
 
 ## Stack
-Python 3.13 · pandas · Plotly · Streamlit · PostgreSQL (Supabase) · Power BI (DAX) · données brutes : exports CSV de JobPilot (Next.js + Supabase).
+Python 3.13 · pandas · PostgreSQL (Supabase) · Power BI (DAX) · Tableau Public · Streamlit/Plotly · données brutes : exports CSV de JobPilot (Next.js + Supabase).
 
 ---
 *Juliana Niapoh — Data Analyst / BI · [Portfolio](https://juliana-niapoh-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/jniapoh/) · [JobPilot](https://jobpilot-ashy.vercel.app/)*
